@@ -1,0 +1,46 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "This WI applies to all personnel involved in the manufacturing process of components using equipment asset IDs 2847.310.0055 (Precision Surface Grinder) and 2847.310.0042 (Horizontal CNC Machining Center). It encompasses all stages of production where dimensional accuracy is essential, as per AIQS requirements.",
+      "new_text": "This WI applies to all personnel involved in the manufacturing process of components using equipment asset IDs 2847.310.0055 (Precision Surface Grinder) and 2847.310.0043 (Horizontal CNC Machining Center). It encompasses all stages of production where dimensional accuracy is essential, as per AIQS requirements."
+    },
+    {
+      "clause_reference": "3.4.1",
+      "action": "edit",
+      "rationale": "The content of AIQS 3.4.1 has changed in v2 to include specific requirements for monitoring process parameters.",
+      "old_text": "Refer to AIQS 3.4.1 for specific setup requirements.",
+      "new_text": "Refer to AIQS 3.4.1 for monitoring process parameters."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "Initiate the in-process dimensional check by verifying that the equipment is set up according to the specifications outlined in the work order. For the Precision Surface Grinder (2847.310.0055), ensure that the grinding wheel is properly dressed and the coolant system is operational. For the Horizontal CNC Machining Center (2847.310.0042), confirm that the program is loaded and the tool offsets are correctly entered. Refer to AIQS 3.4.1 for specific setup requirements. Once the setup is confirmed, perform a preliminary check of the machine's operational parameters to ensure they meet the production specifications.",
+      "new_text": "Initiate the in-process dimensional check by verifying that the equipment is set up according to the specifications outlined in the work order. For the Precision Surface Grinder (2847.310.0055), ensure that the grinding wheel is properly dressed and the coolant system is operational. For the Horizontal CNC Machining Center (2847.310.0043), confirm that the program is loaded and the tool offsets are correctly entered. Refer to AIQS 3.4.1 for specific setup requirements. Once the setup is confirmed, perform a preliminary check of the machine's operational parameters to ensure they meet the production specifications."
+    },
+    {
+      "clause_reference": "3.2.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2 to specify calibration requirements for torque measurement equipment, which is relevant to the measuring tools used in the procedure.",
+      "old_text": "ensuring that all tools are calibrated as per AIQS 3.2.1.",
+      "new_text": "ensuring that all measuring tools are calibrated at specified intervals to ensure accuracy as per AIQS 3.2.1."
+    },
+    {
+      "clause_reference": "3.5.4",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2 to focus on periodic audits of lockout/tagout procedures, which affects the escalation process described in the procedure.",
+      "old_text": "escalate the issue as per AIQS 3.5.4.",
+      "new_text": "escalate the issue as per AIQS 3.5.4, which includes a review of documentation and adherence to established protocols."
+    },
+    {
+      "clause_reference": "3.4.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2 to include specific requirements for monitoring process parameters.",
+      "old_text": "Ensure that all verification activities comply with AIQS 3.4.1 and that personnel involved in the verification process are qualified and trained.",
+      "new_text": "Ensure that all verification activities comply with AIQS 3.4.1, which requires continuous monitoring of process parameters to ensure compliance with established specifications, and that personnel involved in the verification process are qualified and trained."
+    }
+  ]
+}

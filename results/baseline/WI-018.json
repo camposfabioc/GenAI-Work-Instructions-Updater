@@ -1,0 +1,25 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.1.1",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new clause should be cited instead.",
+      "old_text": "per AIQS 3.1.1.",
+      "new_text": "per AIQS 2.3.1."
+    },
+    {
+      "clause_reference": "3.4.4",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new clause should be cited instead.",
+      "old_text": "according to AIQS 3.4.4.",
+      "new_text": "according to AIQS 2.5.2."
+    },
+    {
+      "clause_reference": "2.2.4",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new clause should be cited instead.",
+      "old_text": "as per AIQS 2.2.4.",
+      "new_text": "as per AIQS 4.3.1."
+    }
+  ]
+}

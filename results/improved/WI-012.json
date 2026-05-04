@@ -1,0 +1,25 @@
+{
+  "edits": [
+    {
+      "clause_reference": "4.1.2",
+      "action": "edit",
+      "rationale": "The content of the clause has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "per AIQS 4.1.2.",
+      "new_text": "per AIQS 4.1.2 — Documentation requirements."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "Personnel must complete the Operational Readiness Review (ORR) training and be familiar with the AIQS requirements. Prior to executing this procedure, ensure that a Nonconformance Report (NCR) is generated for any identified nonconforming materials. Personnel must also be trained in Lockout-Tagout (LOTO) procedures to safely handle equipment, including the Hydraulic Press (Asset ID: 2847.420.0018) and the Precision Surface Grinder (Asset ID: 2847.310.0055). Refer to AIQS 4.2.2 for additional training requirements.",
+      "new_text": "Personnel must complete the Operational Readiness Review (ORR) training and be familiar with the AIQS requirements. Prior to executing this procedure, ensure that a Nonconformance Report (NCR) is generated for any identified nonconforming materials. Personnel must also be trained in Lockout-Tagout (LOTO) procedures to safely handle equipment, including the Hydraulic Press (Asset ID: 2847.420.0019) and the Precision Surface Grinder (Asset ID: 2847.310.0055). Refer to AIQS 4.2.2 for additional training requirements."
+    },
+    {
+      "clause_reference": "5.5.4",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "as per AIQS 5.5.4.",
+      "new_text": "as per AIQS 5.5.4 — Retention policy review."
+    }
+  ]
+}

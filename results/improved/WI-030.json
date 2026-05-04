@@ -1,0 +1,11 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.2.1",
+      "action": "edit",
+      "rationale": "The content of AIQS 3.2.1 has changed in version 2, necessitating an update to the citation in the Work Instruction.",
+      "old_text": "Document any findings in accordance with AIQS 3.2.1.",
+      "new_text": "Document any findings in accordance with AIQS 3.2.1 — Calibration of torque equipment. Torque measurement equipment associated with servo-hydraulic presses shall be calibrated at specified intervals to ensure accuracy. Calibration records shall be maintained and made available for review. The calibration process shall follow the manufacturer's specifications and relevant industry standards. Any deviations identified during calibration shall be addressed promptly to maintain compliance with operational controls."
+    }
+  ]
+}

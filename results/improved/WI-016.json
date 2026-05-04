@@ -1,0 +1,46 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "This WI applies to all personnel involved in the calibration and verification of torque wrenches within the manufacturing facility. It covers equipment asset IDs 2847.310.0061 (Vertical Turning Lathe) and 2847.420.0018 (Hydraulic Press, 12-ton) as specified in AIQS 3.2.2.",
+      "new_text": "This WI applies to all personnel involved in the calibration and verification of torque wrenches within the manufacturing facility. It covers equipment asset IDs 2847.310.0061 (Vertical Turning Lathe) and 2847.420.0019 (Hydraulic Press, 12-ton) as specified in AIQS 3.2.2."
+    },
+    {
+      "clause_reference": "3.1.4",
+      "action": "flag",
+      "rationale": "AIQS 3.1.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "1. Review the AIQS documentation, particularly clauses AIQS 3.1.1 and AIQS 3.1.4, to understand the quality standards related to calibration.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "3.4.4",
+      "action": "flag",
+      "rationale": "AIQS 3.4.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "4. Verify that the torque wrenches have not been subjected to any conditions that could affect their accuracy, such as physical damage or excessive wear, as per AIQS 3.4.4.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "3.1.1",
+      "action": "edit",
+      "rationale": "The content of clause AIQS 3.1.1 has changed in v2, requiring an update to the Work Instruction.",
+      "old_text": "Review the AIQS documentation, particularly clauses AIQS 3.1.1 and AIQS 3.1.4, to understand the quality standards related to calibration.",
+      "new_text": "Prior to commencing any operational activities, a comprehensive pre-operation check shall be conducted. This check shall include an assessment of all relevant equipment, ensuring that each component is functioning correctly and safely. Operators shall verify that all safety devices are in place and operational. Documentation of the pre-operation check shall be maintained for future reference and compliance verification."
+    },
+    {
+      "clause_reference": "3.5.4",
+      "action": "edit",
+      "rationale": "The content of AIQS 3.5.4 has changed in version 2, necessitating an update to the citation in the Work Instruction.",
+      "old_text": "Follow the guidelines set forth in AIQS 3.5.4 to maintain the integrity of the calibration process and ensure compliance with quality standards.",
+      "new_text": "Follow the guidelines set forth in AIQS 3.5.4 to conduct periodic audits of lockout/tagout procedures and assess compliance and effectiveness."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "After completing the verification of each torque wrench, perform a final inspection to confirm that all tools are returned to their designated storage locations. Update the calibration records to reflect the verification results, including any adjustments made or NCRs issued. Ensure that the Hydraulic Press (2847.420.0018) is also checked for any torque-related applications that may require verification. Follow the guidelines set forth in AIQS 3.5.4 to maintain the integrity of the calibration process and ensure compliance with quality standards.",
+      "new_text": "After completing the verification of each torque wrench, perform a final inspection to confirm that all tools are returned to their designated storage locations. Update the calibration records to reflect the verification results, including any adjustments made or NCRs issued. Ensure that the Hydraulic Press (2847.420.0019) is also checked for any torque-related applications that may require verification. Follow the guidelines set forth in AIQS 3.5.4 to maintain the integrity of the calibration process and ensure compliance with quality standards."
+    }
+  ]
+}

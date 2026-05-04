@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.2.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2 to specify calibration requirements for torque measurement equipment.",
+      "old_text": "thereby reducing the likelihood of Nonconformance Reports (NCRs) per AIQS 3.2.1.",
+      "new_text": "thereby reducing the likelihood of Nonconformance Reports (NCRs) per AIQS 3.2.1 — Calibration of torque equipment. Torque measurement equipment associated with servo-hydraulic presses shall be calibrated at specified intervals to ensure accuracy. Calibration records shall be maintained and made available for review. The calibration process shall follow the manufacturer's specifications and relevant industry standards. Any deviations identified during calibration shall be addressed promptly to maintain compliance with operational controls."
+    },
+    {
+      "clause_reference": "3.2.4",
+      "action": "flag",
+      "rationale": "AIQS 3.2.4 in v2 contains unrelated content (likely renumber cascade) and no similar clause was found elsewhere — human review required.",
+      "old_text": "Begin by reviewing the current process parameters for the Vertical Turning Lathe (2847.310.0061). Access the equipment's control panel and navigate to the parameter settings. Document the existing parameters, including spindle speed, feed rate, and coolant flow rate. Ensure that all readings are within the acceptable range as defined in the equipment's operational manual. If any parameters are outside the specified limits, prepare to adjust them in accordance with AIQS 3.2.4. Notify the supervisor of any discrepancies before proceeding.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "2.1.4",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2 to include specific requirements for asset identification verification.",
+      "old_text": "Follow the guidelines set forth in AIQS 2.1.4 to maintain compliance.",
+      "new_text": "Follow the guidelines set forth in AIQS 2.1.4 — Asset identification verification to maintain compliance."
+    },
+    {
+      "clause_reference": "3.2.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the citation and context.",
+      "old_text": "Ensure that all documentation is completed in accordance with AIQS 3.2.1 and is accessible for future reference.",
+      "new_text": "Ensure that all documentation is completed in accordance with AIQS 3.2.1 — Calibration of torque equipment and is accessible for future reference."
+    }
+  ]
+}

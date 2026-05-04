@@ -1,0 +1,11 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.1.4",
+      "action": "flag",
+      "rationale": "AIQS 3.1.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "3. **Remove Existing Die**: Carefully remove the existing die from the hydraulic press. Inspect the die for any signs of wear or damage. If any issues are identified, complete a Nonconformance Report (NCR) as per AIQS 3.1.4.",
+      "new_text": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "This Work Instruction (WI) outlines the procedure for setting up fixtures on the Horizontal CNC Machining Center (2847.310.0042) for multi-part runs. Adhering to this WI ensures compliance with the Acme Industrial Quality Standard (AIQS) and promotes operational efficiency while minimizing the risk of nonconformance.",
+      "new_text": "This Work Instruction (WI) outlines the procedure for setting up fixtures on the Horizontal CNC Machining Center (2847.310.0043) for multi-part runs. Adhering to this WI ensures compliance with the Acme Industrial Quality Standard (AIQS) and promotes operational efficiency while minimizing the risk of nonconformance."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "This WI applies to all operators and technicians involved in the setup of fixtures for multi-part production runs on equipment 2847.310.0042 and 2847.310.0055 (Precision Surface Grinder). Compliance with this WI is mandatory to maintain quality standards as outlined in AIQS.",
+      "new_text": "This WI applies to all operators and technicians involved in the setup of fixtures for multi-part production runs on equipment 2847.310.0043 and 2847.310.0055 (Precision Surface Grinder). Compliance with this WI is mandatory to maintain quality standards as outlined in AIQS."
+    },
+    {
+      "clause_reference": "3.4.4",
+      "action": "flag",
+      "rationale": "AIQS 3.4.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "2. **Lockout-Tagout (LOTO)**: Implement LOTO procedures to ensure the safety of personnel during the setup process. Confirm that all energy sources are properly locked and tagged according to AIQS 3.4.4.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "3.1.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the text to reflect the new requirements.",
+      "old_text": "per AIQS 3.1.1.",
+      "new_text": "according to AIQS 3.1.1."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "1. **Preparation**: Before initiating the setup, conduct an Operational Readiness Review (ORR) to ensure that equipment 2847.310.0042 is in proper working condition per AIQS 3.1.1. Verify that all necessary tools and fixtures are available and free from defects.",
+      "new_text": "1. **Preparation**: Before initiating the setup, conduct an Operational Readiness Review (ORR) to ensure that equipment 2847.310.0043 is in proper working condition per AIQS 3.1.1. Verify that all necessary tools and fixtures are available and free from defects."
+    }
+  ]
+}

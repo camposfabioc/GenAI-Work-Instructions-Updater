@@ -1,0 +1,1186 @@
+[
+  {
+    "wi_id": "WI-001",
+    "clause_id": "4.1.3",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_id": "4.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_id": "3.4.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.4 \u2192 AIQS 3.4.3; update citation"
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_id": "3.2.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_id": "3.2.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_id": "3.3.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_id": "2.5.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.5.4 \u2192 AIQS 2.5.3; update citation"
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_id": "1.5.4",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_id": "1.2.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_id": "1.1.3",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_id": "2.3.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.3.4 \u2192 AIQS 2.3.5; update citation"
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_id": "2.2.1",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_id": "3.1.2",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.1.2 \u2192 AIQS 3.2.5; update citation"
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_id": "3.2.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_id": "2.4.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_id": "3.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=horizontal CNC machining center, to=5-axis CNC machining center; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_id": "2.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_id": "3.4.2",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.2 \u2192 AIQS 3.2.4; update citation"
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_id": "2.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_id": "3.1.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_id": "3.2.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-005",
+    "clause_id": "5.4.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-005",
+    "clause_id": "5.4.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 5.4.4 \u2192 AIQS 5.3.4; update citation"
+  },
+  {
+    "wi_id": "WI-005",
+    "clause_id": "4.2.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-006",
+    "clause_id": "3.3.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-006",
+    "clause_id": "3.2.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-006",
+    "clause_id": "3.1.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "scope_narrow",
+    "detail": "Content changed (scope_narrow): from_scope=any equipment, to_scope=any Class-B rotating equipment; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-007",
+    "clause_id": "3.3.4",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-007",
+    "clause_id": "3.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-007",
+    "clause_id": "2.3.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "clause_split",
+    "detail": "Clause split into: AIQS 2.3.2, 2.3.3; update citation to correct sub-clause"
+  },
+  {
+    "wi_id": "WI-007",
+    "clause_id": "2.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_id": "1.4.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 1.4.4 \u2192 AIQS 1.4.5; update citation"
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_id": "1.1.4",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_id": "1.3.3",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "clause_split",
+    "detail": "Clause split into: AIQS 1.3.3, 1.3.4; update citation to correct sub-clause"
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_id": "1.5.4",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_id": "2.3.1",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_id": "1.1.2",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=may, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_id": "1.5.2",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-009",
+    "clause_id": "3.3.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-009",
+    "clause_id": "3.4.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.4 \u2192 AIQS 3.4.3; update citation"
+  },
+  {
+    "wi_id": "WI-009",
+    "clause_id": "3.3.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "3.3.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "3.2.2",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "3.2.1",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "2.1.2",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "3.2.4",
+    "position_bucket": "middle",
+    "expected_behavior": "flag_for_review",
+    "transformation_type": "deprecate",
+    "detail": "Clause 3.2.4 deprecated in v2; WI reference must be reviewed for removal or replacement"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "2.1.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=horizontal CNC machining center, to=5-axis CNC machining center; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "2.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_id": "2.3.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-011",
+    "clause_id": "1.2.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-011",
+    "clause_id": "1.5.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-011",
+    "clause_id": "1.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=may, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-011",
+    "clause_id": "2.1.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-012",
+    "clause_id": "4.1.2",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=may, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-012",
+    "clause_id": "5.5.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-012",
+    "clause_id": "4.2.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-012",
+    "clause_id": "5.5.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=should, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_id": "1.3.2",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "scope_narrow",
+    "detail": "Content changed (scope_narrow): from_scope=equipment, to_scope=Class-B rotating equipment; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_id": "2.3.3",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.3.3 \u2192 AIQS 2.3.4; update citation"
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_id": "1.2.4",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_id": "1.5.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_id": "1.3.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_id": "1.5.4",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_id": "1.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=may, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_id": "2.3.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_id": "3.1.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_id": "2.5.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.5.1 \u2192 AIQS 2.1.6; update citation"
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_id": "3.5.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_id": "3.4.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.2 \u2192 AIQS 3.2.4; update citation"
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_id": "2.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_id": "3.5.4",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=should, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_id": "3.1.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "scope_narrow",
+    "detail": "Content changed (scope_narrow): from_scope=any equipment, to_scope=any Class-B rotating equipment; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_id": "4.4.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_id": "4.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "3.3.1",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "3.2.2",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "3.1.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "scope_narrow",
+    "detail": "Content changed (scope_narrow): from_scope=any equipment, to_scope=any Class-B rotating equipment; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "3.1.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "3.3.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "2.4.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "3.4.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.4 \u2192 AIQS 3.4.3; update citation"
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_id": "3.5.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=should, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "2.3.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "1.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "2.5.3",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.5.3 \u2192 AIQS 2.5.2; update citation"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "2.2.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "1.1.1",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "1.2.2",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "2.3.2",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "clause_split",
+    "detail": "Clause split into: AIQS 2.3.2, 2.3.3; update citation to correct sub-clause"
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_id": "2.5.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.5.1 \u2192 AIQS 2.1.6; update citation"
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_id": "3.1.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_id": "3.4.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.4 \u2192 AIQS 3.4.3; update citation"
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_id": "2.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_id": "4.1.4",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_id": "4.5.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "flag_for_review",
+    "transformation_type": "deprecate",
+    "detail": "Clause 4.5.3 deprecated in v2; WI reference must be reviewed for removal or replacement"
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_id": "4.5.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_id": "4.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_id": "3.4.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.3 \u2192 AIQS 3.4.2; update citation"
+  },
+  {
+    "wi_id": "WI-020",
+    "clause_id": "3.3.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-020",
+    "clause_id": "3.2.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-020",
+    "clause_id": "3.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=horizontal CNC machining center, to=5-axis CNC machining center; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_id": "4.5.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_id": "4.1.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_id": "3.4.1",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=horizontal CNC machining center, to=5-axis CNC machining center; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_id": "3.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_id": "3.5.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=should, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_id": "3.3.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-022",
+    "clause_id": "2.2.1",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-022",
+    "clause_id": "2.5.2",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.5.2 \u2192 AIQS 2.5.1; update citation"
+  },
+  {
+    "wi_id": "WI-022",
+    "clause_id": "2.2.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-022",
+    "clause_id": "3.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "flag_for_review",
+    "transformation_type": "deprecate",
+    "detail": "Clause 3.2.4 deprecated in v2; WI reference must be reviewed for removal or replacement"
+  },
+  {
+    "wi_id": "WI-023",
+    "clause_id": "4.5.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-023",
+    "clause_id": "4.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-023",
+    "clause_id": "5.5.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "strengthen",
+    "detail": "Content changed (strengthen): from_phrase=should, to_phrase=shall; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-023",
+    "clause_id": "5.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_id": "2.4.3",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_id": "3.4.3",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.3 \u2192 AIQS 3.4.2; update citation"
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_id": "3.1.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.1.2 \u2192 AIQS 3.2.5; update citation"
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_id": "2.2.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_id": "2.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_id": "1.2.4",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_id": "1.3.3",
+    "position_bucket": "top",
+    "expected_behavior": "edit_required",
+    "transformation_type": "clause_split",
+    "detail": "Clause split into: AIQS 1.3.3, 1.3.4; update citation to correct sub-clause"
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_id": "2.1.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=horizontal CNC machining center, to=5-axis CNC machining center; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_id": "2.2.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_id": "1.3.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 1.3.4 \u2192 AIQS 1.3.5; update citation"
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_id": "1.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-026",
+    "clause_id": "5.1.1",
+    "position_bucket": "middle",
+    "expected_behavior": "flag_for_review",
+    "transformation_type": "deprecate",
+    "detail": "Clause 5.1.1 deprecated in v2; WI reference must be reviewed for removal or replacement"
+  },
+  {
+    "wi_id": "WI-026",
+    "clause_id": "4.4.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-026",
+    "clause_id": "4.2.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-026",
+    "clause_id": "4.2.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-027",
+    "clause_id": "2.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-027",
+    "clause_id": "2.4.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-027",
+    "clause_id": "3.1.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-027",
+    "clause_id": "2.5.4",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.5.4 \u2192 AIQS 2.5.3; update citation"
+  },
+  {
+    "wi_id": "WI-028",
+    "clause_id": "2.4.3",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-028",
+    "clause_id": "2.2.3",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-028",
+    "clause_id": "3.2.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-028",
+    "clause_id": "3.3.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_id": "3.5.2",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_id": "2.4.3",
+    "position_bucket": "top",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_id": "2.3.3",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.3.3 \u2192 AIQS 2.3.4; update citation"
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_id": "3.4.3",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 3.4.3 \u2192 AIQS 3.4.2; update citation"
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_id": "2.3.4",
+    "position_bucket": "middle",
+    "expected_behavior": "edit_required",
+    "transformation_type": "renumber",
+    "detail": "Clause renumbered: AIQS 2.3.4 \u2192 AIQS 2.3.5; update citation"
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_id": "2.2.1",
+    "position_bucket": "middle",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-030",
+    "clause_id": "3.3.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-030",
+    "clause_id": "3.2.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  },
+  {
+    "wi_id": "WI-030",
+    "clause_id": "3.2.2",
+    "position_bucket": "bottom",
+    "expected_behavior": "no_action_required",
+    "transformation_type": null,
+    "detail": "Clause unchanged between v1 and v2"
+  },
+  {
+    "wi_id": "WI-030",
+    "clause_id": "2.1.1",
+    "position_bucket": "bottom",
+    "expected_behavior": "edit_required",
+    "transformation_type": "term_replace",
+    "detail": "Content changed (term_replace): from=hydraulic press, to=servo-hydraulic press; update WI text to align with v2"
+  }
+]

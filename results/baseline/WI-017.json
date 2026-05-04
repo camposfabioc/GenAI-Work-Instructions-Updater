@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "1.1.1",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the text should be updated to reflect the new clause.",
+      "old_text": "AIQS 1.1.1",
+      "new_text": "AIQS 1.1.1 and AIQS 1.1.2"
+    },
+    {
+      "clause_reference": "2.5.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the text should be updated to reflect the new clause.",
+      "old_text": "AIQS 2.5.3",
+      "new_text": "AIQS 2.5.1"
+    },
+    {
+      "clause_reference": "1.2.1",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the text should be updated to reflect the new clause.",
+      "old_text": "AIQS 1.2.1",
+      "new_text": "AIQS 1.2.1 and AIQS 1.2.2"
+    },
+    {
+      "clause_reference": "2.2.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the text should be updated to reflect the new clause.",
+      "old_text": "AIQS 2.2.3",
+      "new_text": "AIQS 1.2.5"
+    }
+  ]
+}

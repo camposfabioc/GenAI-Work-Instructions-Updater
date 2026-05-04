@@ -1,0 +1,109 @@
+{
+  "pipeline": "improved",
+  "n_wis": 30,
+  "n_wis_failed": 0,
+  "metrics": {
+    "M0_retrieval_recall": {
+      "@1": 0.056,
+      "@3": 0.056,
+      "@5": 0.056,
+      "gate_pass": false,
+      "gate_target": 0.85,
+      "n_queries": 54,
+      "applicable": false
+    },
+    "M1_reference_hallucination": {
+      "rate": 0.025,
+      "n_proposals": 79,
+      "n_hallucinated": 2
+    },
+    "M2_substantive_hallucination": {
+      "rate": 0.0,
+      "n_evaluated": 0,
+      "n_not_entailed": 0,
+      "n_excluded_citation_only": 0,
+      "skipped": true
+    },
+    "M3_lost_in_middle": {
+      "recall_top": 0.778,
+      "recall_middle": 0.75,
+      "recall_bottom": 0.621,
+      "gap": 0.028,
+      "n_top": 9,
+      "n_middle": 20,
+      "n_bottom": 29
+    },
+    "M4_rule_consistency": {
+      "by_type": {
+        "clause_split": {
+          "rate": 1.0,
+          "n": 4
+        },
+        "deprecate": {
+          "rate": 0.75,
+          "n": 4
+        },
+        "renumber": {
+          "rate": 0.375,
+          "n": 24
+        },
+        "scope_narrow": {
+          "rate": 1.0,
+          "n": 4
+        },
+        "strengthen": {
+          "rate": 1.0,
+          "n": 9
+        },
+        "term_replace": {
+          "rate": 0.846,
+          "n": 13
+        }
+      },
+      "std_dev": 0.224,
+      "min_rate": 0.375
+    },
+    "M5_terminology": {
+      "preservation_rate": 0.967,
+      "migration_rate": 1.0,
+      "expansion_accuracy": 0.273,
+      "n_preservation": 30,
+      "n_migration": 34,
+      "n_expansion": 22
+    },
+    "deprecated_handling": {
+      "n_deprecated": 4,
+      "correctly_flagged": 3,
+      "incorrectly_edited": 0,
+      "missed": 1
+    }
+  },
+  "ops": {
+    "total_calls": 80,
+    "total_tokens": 121610,
+    "total_cost_usd": 0.0221,
+    "avg_latency_s": 2.15,
+    "by_model": {
+      "gpt-4o-mini": {
+        "calls": 80,
+        "tokens": 121610,
+        "cost_usd": 0.0221
+      }
+    }
+  },
+  "metadata": {
+    "pipeline": "improved",
+    "model": "gpt-4o-mini",
+    "seed": 20260423,
+    "smoke": false,
+    "n_wis_processed": 30,
+    "n_wis_failed": 0,
+    "started_at": "2026-05-03T09:13:28.566594+00:00",
+    "finished_at": "2026-05-03T09:16:24.384991+00:00",
+    "duration_s": 175.818397,
+    "prompt_hash": "sha256:b54b1c68b36bcbe4",
+    "eval_timestamp": "2026-05-04T07:16:40.816815+00:00",
+    "skipped_m2": true,
+    "timestamp": "2026-05-03T09:13:28.566594+00:00"
+  }
+}

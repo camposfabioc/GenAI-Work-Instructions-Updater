@@ -1,0 +1,876 @@
+{
+  "entries": [
+    {
+      "transformation_type": "deprecate",
+      "v1_clause_ids": [
+        "5.1.1"
+      ],
+      "v2_clause_ids": [],
+      "payload": {
+        "removed_heading": "Detection of nonconformance"
+      }
+    },
+    {
+      "transformation_type": "deprecate",
+      "v1_clause_ids": [
+        "3.2.4"
+      ],
+      "v2_clause_ids": [],
+      "payload": {
+        "removed_heading": "Monitoring torque application"
+      }
+    },
+    {
+      "transformation_type": "deprecate",
+      "v1_clause_ids": [
+        "5.1.3"
+      ],
+      "v2_clause_ids": [],
+      "payload": {
+        "removed_heading": "Roles and responsibilities"
+      }
+    },
+    {
+      "transformation_type": "deprecate",
+      "v1_clause_ids": [
+        "4.5.3"
+      ],
+      "v2_clause_ids": [],
+      "payload": {
+        "removed_heading": "Calibration method standards"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "5.1.2"
+      ],
+      "v2_clause_ids": [
+        "5.1.1"
+      ],
+      "payload": {
+        "reason": "local_shift_after_deprecate"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "5.1.4"
+      ],
+      "v2_clause_ids": [
+        "5.1.2"
+      ],
+      "payload": {
+        "reason": "local_shift_after_deprecate"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "4.5.4"
+      ],
+      "v2_clause_ids": [
+        "4.5.3"
+      ],
+      "payload": {
+        "reason": "local_shift_after_deprecate"
+      }
+    },
+    {
+      "transformation_type": "clause_split",
+      "v1_clause_ids": [
+        "1.3.3"
+      ],
+      "v2_clause_ids": [
+        "1.3.3",
+        "1.3.4"
+      ],
+      "payload": {
+        "note": "body halved on sentence boundary"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "1.3.4"
+      ],
+      "v2_clause_ids": [
+        "1.3.5"
+      ],
+      "payload": {
+        "reason": "local_shift_after_split"
+      }
+    },
+    {
+      "transformation_type": "clause_split",
+      "v1_clause_ids": [
+        "1.4.3"
+      ],
+      "v2_clause_ids": [
+        "1.4.3",
+        "1.4.4"
+      ],
+      "payload": {
+        "note": "body halved on sentence boundary"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "1.4.4"
+      ],
+      "v2_clause_ids": [
+        "1.4.5"
+      ],
+      "payload": {
+        "reason": "local_shift_after_split"
+      }
+    },
+    {
+      "transformation_type": "clause_split",
+      "v1_clause_ids": [
+        "2.3.2"
+      ],
+      "v2_clause_ids": [
+        "2.3.2",
+        "2.3.3"
+      ],
+      "payload": {
+        "note": "body halved on sentence boundary"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.3.4"
+      ],
+      "v2_clause_ids": [
+        "2.3.5"
+      ],
+      "payload": {
+        "reason": "local_shift_after_split"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.3.3"
+      ],
+      "v2_clause_ids": [
+        "2.3.4"
+      ],
+      "payload": {
+        "reason": "local_shift_after_split"
+      }
+    },
+    {
+      "transformation_type": "clause_insert",
+      "v1_clause_ids": [],
+      "v2_clause_ids": [
+        "5.5.5"
+      ],
+      "payload": {
+        "heading": "Cybersecurity Controls"
+      }
+    },
+    {
+      "transformation_type": "clause_insert",
+      "v1_clause_ids": [],
+      "v2_clause_ids": [
+        "2.5.5"
+      ],
+      "payload": {
+        "heading": "Data Integrity Requirements"
+      }
+    },
+    {
+      "transformation_type": "clause_insert",
+      "v1_clause_ids": [],
+      "v2_clause_ids": [
+        "5.1.3"
+      ],
+      "payload": {
+        "heading": "Digital Work Instruction Rollout"
+      }
+    },
+    {
+      "transformation_type": "clause_insert",
+      "v1_clause_ids": [],
+      "v2_clause_ids": [
+        "1.3.6"
+      ],
+      "payload": {
+        "heading": "Supplier Change Notification"
+      }
+    },
+    {
+      "transformation_type": "clause_insert",
+      "v1_clause_ids": [],
+      "v2_clause_ids": [
+        "4.2.5"
+      ],
+      "payload": {
+        "heading": "Environmental Impact Assessment"
+      }
+    },
+    {
+      "transformation_type": "term_replace",
+      "v1_clause_ids": [
+        "2.1.1"
+      ],
+      "v2_clause_ids": [
+        "2.1.1"
+      ],
+      "payload": {
+        "from": "hydraulic press",
+        "to": "servo-hydraulic press"
+      }
+    },
+    {
+      "transformation_type": "term_replace",
+      "v1_clause_ids": [
+        "2.1.3"
+      ],
+      "v2_clause_ids": [
+        "2.1.3"
+      ],
+      "payload": {
+        "from": "horizontal CNC machining center",
+        "to": "5-axis CNC machining center"
+      }
+    },
+    {
+      "transformation_type": "term_replace",
+      "v1_clause_ids": [
+        "2.1.4"
+      ],
+      "v2_clause_ids": [
+        "2.1.4"
+      ],
+      "payload": {
+        "from": "horizontal CNC machining center",
+        "to": "5-axis CNC machining center"
+      }
+    },
+    {
+      "transformation_type": "term_replace",
+      "v1_clause_ids": [
+        "2.3.5"
+      ],
+      "v2_clause_ids": [
+        "2.3.5"
+      ],
+      "payload": {
+        "from": "horizontal CNC machining center",
+        "to": "5-axis CNC machining center"
+      }
+    },
+    {
+      "transformation_type": "term_replace",
+      "v1_clause_ids": [
+        "3.2.1"
+      ],
+      "v2_clause_ids": [
+        "3.2.1"
+      ],
+      "payload": {
+        "from": "hydraulic press",
+        "to": "servo-hydraulic press"
+      }
+    },
+    {
+      "transformation_type": "term_replace",
+      "v1_clause_ids": [
+        "3.4.1"
+      ],
+      "v2_clause_ids": [
+        "3.4.1"
+      ],
+      "payload": {
+        "from": "horizontal CNC machining center",
+        "to": "5-axis CNC machining center"
+      }
+    },
+    {
+      "transformation_type": "term_replace",
+      "v1_clause_ids": [
+        "3.5.1"
+      ],
+      "v2_clause_ids": [
+        "3.5.1"
+      ],
+      "payload": {
+        "from": "hydraulic press",
+        "to": "servo-hydraulic press"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "1.1.2"
+      ],
+      "v2_clause_ids": [
+        "1.1.2"
+      ],
+      "payload": {
+        "from_phrase": "may",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "1.4.1"
+      ],
+      "v2_clause_ids": [
+        "1.4.1"
+      ],
+      "payload": {
+        "from_phrase": "may",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "5.5.4"
+      ],
+      "v2_clause_ids": [
+        "5.5.4"
+      ],
+      "payload": {
+        "from_phrase": "should",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "3.5.4"
+      ],
+      "v2_clause_ids": [
+        "3.5.4"
+      ],
+      "payload": {
+        "from_phrase": "should",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "5.3.3"
+      ],
+      "v2_clause_ids": [
+        "5.3.3"
+      ],
+      "payload": {
+        "from_phrase": "may",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "4.1.2"
+      ],
+      "v2_clause_ids": [
+        "4.1.2"
+      ],
+      "payload": {
+        "from_phrase": "may",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "3.5.3"
+      ],
+      "v2_clause_ids": [
+        "3.5.3"
+      ],
+      "payload": {
+        "from_phrase": "should",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "strengthen",
+      "v1_clause_ids": [
+        "5.4.2"
+      ],
+      "v2_clause_ids": [
+        "5.4.2"
+      ],
+      "payload": {
+        "from_phrase": "should",
+        "to_phrase": "shall"
+      }
+    },
+    {
+      "transformation_type": "scope_narrow",
+      "v1_clause_ids": [
+        "3.1.3"
+      ],
+      "v2_clause_ids": [
+        "3.1.3"
+      ],
+      "payload": {
+        "from_scope": "equipment",
+        "to_scope": "Class-B rotating equipment"
+      }
+    },
+    {
+      "transformation_type": "scope_narrow",
+      "v1_clause_ids": [
+        "2.4.2"
+      ],
+      "v2_clause_ids": [
+        "2.4.2"
+      ],
+      "payload": {
+        "from_scope": "equipment",
+        "to_scope": "Class-B rotating equipment"
+      }
+    },
+    {
+      "transformation_type": "scope_narrow",
+      "v1_clause_ids": [
+        "4.2.5"
+      ],
+      "v2_clause_ids": [
+        "4.2.5"
+      ],
+      "payload": {
+        "from_scope": "equipment",
+        "to_scope": "Class-B rotating equipment"
+      }
+    },
+    {
+      "transformation_type": "scope_narrow",
+      "v1_clause_ids": [
+        "1.3.2"
+      ],
+      "v2_clause_ids": [
+        "1.3.2"
+      ],
+      "payload": {
+        "from_scope": "equipment",
+        "to_scope": "Class-B rotating equipment"
+      }
+    },
+    {
+      "transformation_type": "scope_narrow",
+      "v1_clause_ids": [
+        "3.1.4"
+      ],
+      "v2_clause_ids": [
+        "3.1.4"
+      ],
+      "payload": {
+        "from_scope": "any equipment",
+        "to_scope": "any Class-B rotating equipment"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "1.4.2"
+      ],
+      "v2_clause_ids": [
+        "1.2.5"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "1.4.3"
+      ],
+      "v2_clause_ids": [
+        "1.4.2"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "1.4.4"
+      ],
+      "v2_clause_ids": [
+        "1.4.3"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "1.4.5"
+      ],
+      "v2_clause_ids": [
+        "1.4.4"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.4.2"
+      ],
+      "v2_clause_ids": [
+        "3.2.4"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.4.3"
+      ],
+      "v2_clause_ids": [
+        "3.4.2"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.4.4"
+      ],
+      "v2_clause_ids": [
+        "3.4.3"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.3.4"
+      ],
+      "v2_clause_ids": [
+        "2.1.5"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.3.5"
+      ],
+      "v2_clause_ids": [
+        "2.3.4"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.5.1"
+      ],
+      "v2_clause_ids": [
+        "2.1.6"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.5.2"
+      ],
+      "v2_clause_ids": [
+        "2.5.1"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.5.3"
+      ],
+      "v2_clause_ids": [
+        "2.5.2"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.5.4"
+      ],
+      "v2_clause_ids": [
+        "2.5.3"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "2.5.5"
+      ],
+      "v2_clause_ids": [
+        "2.5.4"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "5.3.4"
+      ],
+      "v2_clause_ids": [
+        "5.5.6"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.1.2"
+      ],
+      "v2_clause_ids": [
+        "3.2.5"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.1.3"
+      ],
+      "v2_clause_ids": [
+        "3.1.2"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.1.4"
+      ],
+      "v2_clause_ids": [
+        "3.1.3"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "5.4.4"
+      ],
+      "v2_clause_ids": [
+        "5.3.4"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.4.2"
+      ],
+      "v2_clause_ids": [
+        "3.2.6"
+      ],
+      "payload": {
+        "reason": "targeted_move"
+      }
+    },
+    {
+      "transformation_type": "renumber",
+      "v1_clause_ids": [
+        "3.4.3"
+      ],
+      "v2_clause_ids": [
+        "3.4.2"
+      ],
+      "payload": {
+        "reason": "local_shift_after_targeted_renumber"
+      }
+    },
+    {
+      "transformation_type": "semantic_tone_shift",
+      "v1_clause_ids": [
+        "1.1.1"
+      ],
+      "v2_clause_ids": [
+        "1.1.1"
+      ],
+      "payload": {
+        "description": "Hedging language removed; enforceability tightened without an explicit stronger modal verb"
+      }
+    },
+    {
+      "transformation_type": "semantic_tone_shift",
+      "v1_clause_ids": [
+        "2.1.2"
+      ],
+      "v2_clause_ids": [
+        "2.1.2"
+      ],
+      "payload": {
+        "description": "Hedging language removed; enforceability tightened without an explicit stronger modal verb"
+      }
+    },
+    {
+      "transformation_type": "semantic_tone_shift",
+      "v1_clause_ids": [
+        "3.1.1"
+      ],
+      "v2_clause_ids": [
+        "3.1.1"
+      ],
+      "payload": {
+        "description": "Hedging language removed; enforceability tightened without an explicit stronger modal verb"
+      }
+    },
+    {
+      "transformation_type": "semantic_xref_chain",
+      "v1_clause_ids": [
+        "1.1.3"
+      ],
+      "v2_clause_ids": [
+        "1.1.3"
+      ],
+      "payload": {
+        "description": "Clause text unchanged but references a clause that was deprecated or structurally moved; effective meaning altered via chain breakage"
+      }
+    },
+    {
+      "transformation_type": "semantic_xref_chain",
+      "v1_clause_ids": [
+        "1.1.4"
+      ],
+      "v2_clause_ids": [
+        "1.1.4"
+      ],
+      "payload": {
+        "description": "Clause text unchanged but references a clause that was deprecated or structurally moved; effective meaning altered via chain breakage"
+      }
+    },
+    {
+      "transformation_type": "semantic_xref_chain",
+      "v1_clause_ids": [
+        "1.2.1"
+      ],
+      "v2_clause_ids": [
+        "1.2.1"
+      ],
+      "payload": {
+        "description": "Clause text unchanged but references a clause that was deprecated or structurally moved; effective meaning altered via chain breakage"
+      }
+    },
+    {
+      "transformation_type": "semantic_ambiguous_scope",
+      "v1_clause_ids": [
+        "1.2.4"
+      ],
+      "v2_clause_ids": [
+        "1.2.4"
+      ],
+      "payload": {
+        "description": "Precise scope qualifier replaced with vague term; interpretation space widened"
+      }
+    },
+    {
+      "transformation_type": "semantic_ambiguous_scope",
+      "v1_clause_ids": [
+        "1.2.3"
+      ],
+      "v2_clause_ids": [
+        "1.2.3"
+      ],
+      "payload": {
+        "description": "Precise scope qualifier replaced with vague term; interpretation space widened"
+      }
+    },
+    {
+      "transformation_type": "semantic_ambiguous_scope",
+      "v1_clause_ids": [
+        "4.2.1"
+      ],
+      "v2_clause_ids": [
+        "4.2.1"
+      ],
+      "payload": {
+        "description": "Precise scope qualifier replaced with vague term; interpretation space widened"
+      }
+    },
+    {
+      "transformation_type": "semantic_clause_merge",
+      "v1_clause_ids": [
+        "1.5.1",
+        "1.5.2"
+      ],
+      "v2_clause_ids": [
+        "1.5.1"
+      ],
+      "payload": {
+        "description": "Clauses 1.5.1 and 1.5.2 merged into 1.5.1; 1.5.2 removed from v2"
+      }
+    },
+    {
+      "transformation_type": "semantic_clause_merge",
+      "v1_clause_ids": [
+        "2.2.1",
+        "2.2.2"
+      ],
+      "v2_clause_ids": [
+        "2.2.1"
+      ],
+      "payload": {
+        "description": "Clauses 2.2.1 and 2.2.2 merged into 2.2.1; 2.2.2 removed from v2"
+      }
+    },
+    {
+      "transformation_type": "semantic_clause_merge",
+      "v1_clause_ids": [
+        "4.4.1",
+        "4.4.2"
+      ],
+      "v2_clause_ids": [
+        "4.4.1"
+      ],
+      "payload": {
+        "description": "Clauses 4.4.1 and 4.4.2 merged into 4.4.1; 4.4.2 removed from v2"
+      }
+    }
+  ]
+}

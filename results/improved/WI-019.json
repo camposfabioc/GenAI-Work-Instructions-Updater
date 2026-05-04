@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "This WI applies to all personnel involved in the visual inspection of components produced by the Injection Molding Unit (Asset ID: 2847.420.0023) and the Horizontal CNC Machining Center (Asset ID: 2847.310.0042). It encompasses all products requiring inspection as part of the quality assurance process.",
+      "new_text": "This WI applies to all personnel involved in the visual inspection of components produced by the Injection Molding Unit (Asset ID: 2847.420.0023) and the Horizontal CNC Machining Center (Asset ID: 2847.310.0043). It encompasses all products requiring inspection as part of the quality assurance process."
+    },
+    {
+      "clause_reference": "4.2.4",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "as per AIQS 4.2.4.",
+      "new_text": "as per AIQS 4.4.1."
+    },
+    {
+      "clause_reference": "4.4.1",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "defect classification guide per AIQS 4.5.3.",
+      "new_text": "defect classification guide per AIQS 4.4.1."
+    },
+    {
+      "clause_reference": "3.2.6",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "prepare a Nonconformance Report (NCR) for any major or critical defects as per AIQS 3.4.3.",
+      "new_text": "prepare a Nonconformance Report (NCR) for any major or critical defects as per AIQS 3.2.6."
+    }
+  ]
+}

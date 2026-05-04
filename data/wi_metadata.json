@@ -1,0 +1,982 @@
+[
+  {
+    "wi_id": "WI-001",
+    "title": "CMM Program Validation Procedure",
+    "length_bucket": "medium",
+    "topic": "CMM Program Validation Procedure",
+    "references": [
+      {
+        "clause_id": "4.1.3",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.2.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.3.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-002",
+    "title": "Management Review Data Collection",
+    "length_bucket": "medium",
+    "topic": "Management Review Data Collection",
+    "references": [
+      {
+        "clause_id": "2.5.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "1.5.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.2.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.1.3",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.3.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-003",
+    "title": "Coolant Concentration Monitoring",
+    "length_bucket": "medium",
+    "topic": "Coolant Concentration Monitoring",
+    "references": [
+      {
+        "clause_id": "2.2.1",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.1.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.2.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.4.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-004",
+    "title": "CNC Machining Center Setup and Alignment",
+    "length_bucket": "medium",
+    "topic": "CNC Machining Center Setup and Alignment",
+    "references": [
+      {
+        "clause_id": "3.4.2",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.1.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-005",
+    "title": "Root Cause Analysis Using 5-Why Method",
+    "length_bucket": "short",
+    "topic": "Root Cause Analysis Using 5-Why Method",
+    "references": [
+      {
+        "clause_id": "5.4.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "5.4.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "4.2.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-006",
+    "title": "Hydraulic Press Die Changeover",
+    "length_bucket": "short",
+    "topic": "Hydraulic Press Die Changeover",
+    "references": [
+      {
+        "clause_id": "3.3.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.1.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-007",
+    "title": "Tool Wear Monitoring and Replacement",
+    "length_bucket": "medium",
+    "topic": "Tool Wear Monitoring and Replacement",
+    "references": [
+      {
+        "clause_id": "3.3.4",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.3.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-008",
+    "title": "Supplier Qualification Documentation",
+    "length_bucket": "long",
+    "topic": "Supplier Qualification Documentation",
+    "references": [
+      {
+        "clause_id": "1.4.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "1.1.4",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.3.3",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "1.5.4",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.3.1",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.1.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "1.5.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-009",
+    "title": "First Article Inspection Execution",
+    "length_bucket": "short",
+    "topic": "First Article Inspection Execution",
+    "references": [
+      {
+        "clause_id": "3.3.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.3.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-010",
+    "title": "Process Parameter Adjustment Procedure",
+    "length_bucket": "long",
+    "topic": "Process Parameter Adjustment Procedure",
+    "references": [
+      {
+        "clause_id": "3.3.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.1",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.1.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.1.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.3.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-011",
+    "title": "Document Control for Quality Records",
+    "length_bucket": "short",
+    "topic": "Document Control for Quality Records",
+    "references": [
+      {
+        "clause_id": "1.2.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.5.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.1.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-012",
+    "title": "Nonconforming Material Quarantine Procedure",
+    "length_bucket": "medium",
+    "topic": "Nonconforming Material Quarantine Procedure",
+    "references": [
+      {
+        "clause_id": "4.1.2",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "5.5.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.2.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "5.5.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-013",
+    "title": "Employee Onboarding for Quality Systems",
+    "length_bucket": "long",
+    "topic": "Employee Onboarding for Quality Systems",
+    "references": [
+      {
+        "clause_id": "1.3.2",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.3.3",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "1.2.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.5.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.3.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.5.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-014",
+    "title": "Lockout-Tagout for Press Maintenance",
+    "length_bucket": "medium",
+    "topic": "Lockout-Tagout for Press Maintenance",
+    "references": [
+      {
+        "clause_id": "2.3.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.1.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.5.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.5.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-015",
+    "title": "Gauge R&R Study Execution",
+    "length_bucket": "medium",
+    "topic": "Gauge R&R Study Execution",
+    "references": [
+      {
+        "clause_id": "3.5.4",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.1.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "4.4.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-016",
+    "title": "Torque Wrench Calibration Verification",
+    "length_bucket": "long",
+    "topic": "Torque Wrench Calibration Verification",
+    "references": [
+      {
+        "clause_id": "3.3.1",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.2",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.1.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.1.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.3.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.4.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.5.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-017",
+    "title": "Corrective Action Request Processing",
+    "length_bucket": "long",
+    "topic": "Corrective Action Request Processing",
+    "references": [
+      {
+        "clause_id": "2.3.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.5.3",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.1.1",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.2.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.3.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.5.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-018",
+    "title": "Fixture Setup for Multi-part Runs",
+    "length_bucket": "short",
+    "topic": "Fixture Setup for Multi-part Runs",
+    "references": [
+      {
+        "clause_id": "3.1.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-019",
+    "title": "Visual Inspection Criteria for Surface Defects",
+    "length_bucket": "medium",
+    "topic": "Visual Inspection Criteria for Surface Defects",
+    "references": [
+      {
+        "clause_id": "4.1.4",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.5.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "4.5.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-020",
+    "title": "Final Inspection and Release Authorization",
+    "length_bucket": "short",
+    "topic": "Final Inspection and Release Authorization",
+    "references": [
+      {
+        "clause_id": "3.3.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-021",
+    "title": "In-Process Dimensional Check Procedure",
+    "length_bucket": "long",
+    "topic": "In-Process Dimensional Check Procedure",
+    "references": [
+      {
+        "clause_id": "4.5.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.1.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.5.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.3.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-022",
+    "title": "Coordinate Measuring Machine Probe Qualification",
+    "length_bucket": "medium",
+    "topic": "Coordinate Measuring Machine Probe Qualification",
+    "references": [
+      {
+        "clause_id": "2.2.1",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.5.2",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-023",
+    "title": "NCR Closure and Effectiveness Verification",
+    "length_bucket": "short",
+    "topic": "NCR Closure and Effectiveness Verification",
+    "references": [
+      {
+        "clause_id": "4.5.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "5.5.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "5.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-024",
+    "title": "Surface Grinder Wheel Dressing Procedure",
+    "length_bucket": "medium",
+    "topic": "Surface Grinder Wheel Dressing Procedure",
+    "references": [
+      {
+        "clause_id": "2.4.3",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.4.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.1.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-025",
+    "title": "Internal Audit Preparation Procedure",
+    "length_bucket": "long",
+    "topic": "Internal Audit Preparation Procedure",
+    "references": [
+      {
+        "clause_id": "1.2.4",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.3.3",
+        "position_bucket": "top",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.1.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "1.3.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "1.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-026",
+    "title": "Corrective Action Implementation and Tracking",
+    "length_bucket": "short",
+    "topic": "Corrective Action Implementation and Tracking",
+    "references": [
+      {
+        "clause_id": "5.1.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "4.4.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.2.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "4.2.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-027",
+    "title": "Injection Molding Unit Purging Procedure",
+    "length_bucket": "short",
+    "topic": "Injection Molding Unit Purging Procedure",
+    "references": [
+      {
+        "clause_id": "2.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.4.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.1.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.5.4",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-028",
+    "title": "Pre-shift Equipment Inspection Checklist",
+    "length_bucket": "short",
+    "topic": "Pre-shift Equipment Inspection Checklist",
+    "references": [
+      {
+        "clause_id": "2.4.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.2.3",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.3.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-029",
+    "title": "Equipment Decommissioning Checklist",
+    "length_bucket": "long",
+    "topic": "Equipment Decommissioning Checklist",
+    "references": [
+      {
+        "clause_id": "3.5.2",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.4.3",
+        "position_bucket": "top",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.3.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.4.3",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.3.4",
+        "position_bucket": "middle",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "2.2.1",
+        "position_bucket": "middle",
+        "is_edit_requiring": false
+      }
+    ]
+  },
+  {
+    "wi_id": "WI-030",
+    "title": "Vertical Turning Lathe Spindle Calibration",
+    "length_bucket": "medium",
+    "topic": "Vertical Turning Lathe Spindle Calibration",
+    "references": [
+      {
+        "clause_id": "3.3.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "3.2.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      },
+      {
+        "clause_id": "3.2.2",
+        "position_bucket": "bottom",
+        "is_edit_requiring": false
+      },
+      {
+        "clause_id": "2.1.1",
+        "position_bucket": "bottom",
+        "is_edit_requiring": true
+      }
+    ]
+  }
+]

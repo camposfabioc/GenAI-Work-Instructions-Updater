@@ -1,0 +1,39 @@
+{
+  "edits": [
+    {
+      "clause_reference": "2.3.4",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the citation and context.",
+      "old_text": "Ensure that equipment asset IDs 2847.310.0042 (Horizontal CNC Machining Center) and 2847.310.0055 (Precision Surface Grinder) are operational and have undergone Lockout-Tagout (LOTO) procedures as per AIQS 2.3.4.",
+      "new_text": "Ensure that equipment asset IDs 2847.310.0043 (Horizontal CNC Machining Center) and 2847.310.0055 (Precision Surface Grinder) are operational and have undergone Lockout-Tagout (LOTO) procedures as per AIQS 2.3.4."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "Personnel must complete training on data collection methods and the AIQS standards relevant to this process. The following documents must be reviewed prior to data collection: the latest Operational Readiness Review (ORR) report, Nonconformance Reports (NCRs), and First Article Inspection (FAI) results. Ensure that equipment asset IDs 2847.310.0042 (Horizontal CNC Machining Center) and 2847.310.0055 (Precision Surface Grinder) are operational and have undergone Lockout-Tagout (LOTO) procedures as per AIQS 2.3.4.",
+      "new_text": "Personnel must complete training on data collection methods and the AIQS standards relevant to this process. The following documents must be reviewed prior to data collection: the latest Operational Readiness Review (ORR) report, Nonconformance Reports (NCRs), and First Article Inspection (FAI) results. Ensure that equipment asset IDs 2847.310.0043 (Horizontal CNC Machining Center) and 2847.310.0055 (Precision Surface Grinder) are operational and have undergone Lockout-Tagout (LOTO) procedures as per AIQS 2.3.4."
+    },
+    {
+      "clause_reference": "2.5.4",
+      "action": "edit",
+      "rationale": "The clause reference has changed in v2 and needs to be updated to reflect the new numbering.",
+      "old_text": "following the guidelines set forth in AIQS 2.5.4.",
+      "new_text": "following the guidelines set forth in AIQS 2.5.3."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "2. **Data Collection**: Utilize the Horizontal CNC Machining Center (2847.310.0042) and Precision Surface Grinder (2847.310.0055) to gather relevant production data. Record the data in the designated format, ensuring accuracy and completeness.",
+      "new_text": "2. **Data Collection**: Utilize the Horizontal CNC Machining Center (2847.310.0043) and Precision Surface Grinder (2847.310.0055) to gather relevant production data. Record the data in the designated format, ensuring accuracy and completeness."
+    },
+    {
+      "clause_reference": "2.3.4",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the citation.",
+      "old_text": "compliance with AIQS 2.3.4.",
+      "new_text": "compliance with AIQS 2.3.4 — Follow-up actions post-ORR."
+    }
+  ]
+}

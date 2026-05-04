@@ -1,0 +1,18 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.1.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2 to specify a comprehensive pre-operation check instead of just documenting the process.",
+      "old_text": "Document the process per AIQS 3.1.1.",
+      "new_text": "Conduct a comprehensive pre-operation check per AIQS 3.1.1."
+    },
+    {
+      "clause_reference": "2.5.4",
+      "action": "edit",
+      "rationale": "The clause ID has changed from 2.5.4 to 2.5.3 in v2, necessitating an update to the citation.",
+      "old_text": "address it immediately per AIQS 2.5.4.",
+      "new_text": "address it immediately per AIQS 2.5.3."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "term": "2847.310.0042",
+    "category": "equipment_id",
+    "description": "Horizontal CNC Machining Center",
+    "introduced_in": "v1",
+    "superseded_by": "2847.310.0043",
+    "common_llm_errors": [
+      "2847.310.42",
+      "28473100042",
+      "2847-310-0042",
+      "the CNC machine",
+      "the machining center",
+      "the horizontal CNC"
+    ]
+  },
+  {
+    "term": "2847.310.0055",
+    "category": "equipment_id",
+    "description": "Precision Surface Grinder",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "2847.310.55",
+      "28473100055",
+      "2847-310-0055",
+      "the surface grinder",
+      "the grinder"
+    ]
+  },
+  {
+    "term": "2847.310.0061",
+    "category": "equipment_id",
+    "description": "Vertical Turning Lathe",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "2847.310.61",
+      "28473100061",
+      "2847-310-0061",
+      "the turning lathe",
+      "the lathe",
+      "the vertical lathe"
+    ]
+  },
+  {
+    "term": "2847.420.0018",
+    "category": "equipment_id",
+    "description": "Hydraulic Press, 12-ton",
+    "introduced_in": "v1",
+    "superseded_by": "2847.420.0019",
+    "common_llm_errors": [
+      "2847.420.18",
+      "28474200018",
+      "2847-420-0018",
+      "the hydraulic press",
+      "the 12-ton press",
+      "the press"
+    ]
+  },
+  {
+    "term": "2847.420.0023",
+    "category": "equipment_id",
+    "description": "Injection Molding Unit",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "2847.420.23",
+      "28474200023",
+      "2847-420-0023",
+      "the injection molding unit",
+      "the molding unit",
+      "the injection molder"
+    ]
+  },
+  {
+    "term": "2847.510.0007",
+    "category": "equipment_id",
+    "description": "Coordinate Measuring Machine",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "2847.510.7",
+      "28475100007",
+      "2847-510-0007",
+      "the CMM",
+      "the coordinate measuring machine",
+      "the measuring machine"
+    ]
+  },
+  {
+    "term": "ORR",
+    "category": "abbreviation",
+    "description": "Operational Readiness Review",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "Operations Risk Review",
+      "Operational Review",
+      "Operations Readiness Report",
+      "Operational Risk Review",
+      "Operating Readiness Review"
+    ]
+  },
+  {
+    "term": "NCR",
+    "category": "abbreviation",
+    "description": "Nonconformance Report",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "Non-conformance Record",
+      "Non-Conformity Report",
+      "Nonconformity Report",
+      "Non Conformance Report"
+    ]
+  },
+  {
+    "term": "FAI",
+    "category": "abbreviation",
+    "description": "First Article Inspection",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "First Article Inspection Report",
+      "First Piece Inspection",
+      "Initial Article Inspection",
+      "First Articles Inspection"
+    ]
+  },
+  {
+    "term": "LOTO",
+    "category": "abbreviation",
+    "description": "Lockout-Tagout",
+    "introduced_in": "v1",
+    "superseded_by": null,
+    "common_llm_errors": [
+      "Lock Out Tag Out",
+      "Lock-Out/Tag-Out",
+      "LO/TO",
+      "Lockout and Tagout",
+      "Lockout Tagout Procedure"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "edits": [
+    {
+      "clause_reference": "1.2.3",
+      "action": "edit",
+      "rationale": "The content of the clause has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "per AIQS 1.2.3.",
+      "new_text": "per AIQS 1.2.3 — Access to normative references."
+    },
+    {
+      "clause_reference": "1.4.1",
+      "action": "edit",
+      "rationale": "The content of AIQS 1.4.1 has changed significantly and needs to reflect the new requirements regarding operator responsibilities for LOTO.",
+      "old_text": "This aligns with the requirements outlined in AIQS 1.4.1.",
+      "new_text": "This aligns with the requirements outlined in AIQS 1.4.1 — Operator responsibilities for LOTO. Operators shall be responsible for the implementation of the Lockout/Tagout (LOTO) procedures as outlined in the Operational Risk Reduction (ORR) documentation."
+    },
+    {
+      "clause_reference": "2.1.2",
+      "action": "edit",
+      "rationale": "The content of AIQS 2.1.2 has changed and needs to reflect the new requirements regarding documentation of asset details.",
+      "old_text": "in accordance with AIQS 2.1.2.",
+      "new_text": "in accordance with AIQS 2.1.2 — Documentation of asset details. A comprehensive inventory of all tagged equipment shall be maintained, including details such as the asset number, location, and operational status."
+    }
+  ]
+}

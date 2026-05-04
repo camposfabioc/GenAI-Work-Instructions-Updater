@@ -1,0 +1,81 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "This Work Instruction (WI) outlines the standardized process for decommissioning equipment, specifically the Coordinate Measuring Machine (CMM) 2847.510.0007 and the Hydraulic Press, 12-ton 2847.420.0018. The purpose is to ensure compliance with the Acme Industrial Quality Standard (AIQS) and to maintain safety and quality during the decommissioning process per AIQS 3.5.2.",
+      "new_text": "This Work Instruction (WI) outlines the standardized process for decommissioning equipment, specifically the Coordinate Measuring Machine (CMM) 2847.510.0007 and the Hydraulic Press, 12-ton 2847.420.0019. The purpose is to ensure compliance with the Acme Industrial Quality Standard (AIQS) and to maintain safety and quality during the decommissioning process per AIQS 3.5.2."
+    },
+    {
+      "clause_reference": "2.2.1",
+      "action": "edit",
+      "rationale": "The clause reference has changed in v2, requiring an update to the citation.",
+      "old_text": "per AIQS 2.2.1.",
+      "new_text": "per AIQS 2.1.5."
+    },
+    {
+      "clause_reference": "2.3.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed in v2, requiring an update to the citation.",
+      "old_text": "as per AIQS 2.3.3.",
+      "new_text": "as per AIQS 2.2.1."
+    },
+    {
+      "clause_reference": "3.4.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed in v2, requiring an update to the citation.",
+      "old_text": "as per AIQS 3.4.3.",
+      "new_text": "as per AIQS 3.2.6."
+    },
+    {
+      "clause_reference": "2.3.4",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "This step must be completed in accordance with AIQS 2.3.4 to ensure a safe working environment.",
+      "new_text": "This step must be completed in accordance with AIQS 2.1.5 to ensure a safe working environment."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "Initiate the decommissioning process by notifying the relevant departments of the planned decommissioning of equipment 2847.510.0007 and 2847.420.0018. Schedule a meeting with the maintenance team to discuss the timeline and specific tasks involved. Ensure that all team members understand their roles and responsibilities. Conduct a thorough review of the equipment's operational status and document any issues that may affect the decommissioning process. Confirm that all safety protocols are in place and that the LOTO procedure is implemented before proceeding. This step must be completed in accordance with AIQS 2.3.4 to ensure a safe working environment.",
+      "new_text": "Initiate the decommissioning process by notifying the relevant departments of the planned decommissioning of equipment 2847.510.0007 and 2847.420.0019. Schedule a meeting with the maintenance team to discuss the timeline and specific tasks involved. Ensure that all team members understand their roles and responsibilities. Conduct a thorough review of the equipment's operational status and document any issues that may affect the decommissioning process. Confirm that all safety protocols are in place and that the LOTO procedure is implemented before proceeding. This step must be completed in accordance with AIQS 2.3.4 to ensure a safe working environment."
+    },
+    {
+      "clause_reference": "2.3.4",
+      "action": "edit",
+      "rationale": "The content of AIQS 2.3.4 has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "as required by AIQS 2.3.4.",
+      "new_text": "as required by AIQS 2.3.4 — Follow-up actions post-ORR."
+    },
+    {
+      "clause_reference": "2.2.1",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "in accordance with AIQS 2.2.1.",
+      "new_text": "in accordance with AIQS 2.1.5."
+    },
+    {
+      "clause_reference": "3.4.3",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "as per AIQS 3.4.3.",
+      "new_text": "as per AIQS 3.2.6."
+    },
+    {
+      "clause_reference": "2.1.5",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "as required by AIQS 2.3.3 and AIQS 2.4.3.",
+      "new_text": "as required by AIQS 2.1.5."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "All records related to the decommissioning of equipment 2847.510.0007 and 2847.420.0018 shall be maintained in a secure location for a minimum of five years. This includes the ORR documentation, LOTO checklists, inspection reports, and the final decommissioning report. Ensure that these records are readily accessible for audits and reviews as required by AIQS 2.3.3 and AIQS 2.4.3.",
+      "new_text": "All records related to the decommissioning of equipment 2847.510.0007 and 2847.420.0019 shall be maintained in a secure location for a minimum of five years. This includes the ORR documentation, LOTO checklists, inspection reports, and the final decommissioning report. Ensure that these records are readily accessible for audits and reviews as required by AIQS 2.3.3 and AIQS 2.4.3."
+    }
+  ]
+}

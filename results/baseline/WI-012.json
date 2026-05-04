@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "5.5.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new text should reflect the updated clause ID.",
+      "old_text": "as mandated by AIQS 5.5.3.",
+      "new_text": "as mandated by AIQS 5.5.2."
+    },
+    {
+      "clause_reference": "4.2.2",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new text should reflect the updated clause ID.",
+      "old_text": "Refer to AIQS 4.2.2 for additional training requirements.",
+      "new_text": "Refer to AIQS 2.2.3 for additional training requirements."
+    },
+    {
+      "clause_reference": "5.5.4",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new text should reflect the updated clause ID.",
+      "old_text": "Use red tags for high-risk items and yellow tags for low-risk items as per AIQS 5.5.4.",
+      "new_text": "Use red tags for high-risk items and yellow tags for low-risk items as per AIQS 5.2.3."
+    },
+    {
+      "clause_reference": "5.5.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new text should reflect the updated clause ID.",
+      "old_text": "to maintain compliance with AIQS 5.5.3.",
+      "new_text": "to maintain compliance with AIQS 5.2.4."
+    }
+  ]
+}

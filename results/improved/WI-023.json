@@ -1,0 +1,25 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "This procedure applies to all personnel involved in the NCR process within the manufacturing plant. It encompasses the verification of corrective actions related to equipment such as the Hydraulic Press (Asset ID: 2847.420.0018) and the Injection Molding Unit (Asset ID: 2847.420.0023) as stipulated in AIQS 4.2.4.",
+      "new_text": "This procedure applies to all personnel involved in the NCR process within the manufacturing plant. It encompasses the verification of corrective actions related to equipment such as the Hydraulic Press (Asset ID: 2847.420.0019) and the Injection Molding Unit (Asset ID: 2847.420.0023) as stipulated in AIQS 4.2.4."
+    },
+    {
+      "clause_reference": "5.5.4",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2 to reflect the updated records retention policy review process.",
+      "old_text": "Ensure the form is reviewed and approved by the Quality Assurance team as per AIQS 5.5.4.",
+      "new_text": "Ensure the form is reviewed and approved by the Quality Assurance team as per AIQS 5.5.4, which requires an annual review of the records retention policy to ensure its effectiveness and compliance with applicable regulations."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "4. Conduct a First Article Inspection (FAI) on the affected equipment, such as the Hydraulic Press (2847.420.0018) or Injection Molding Unit (2847.420.0023), to verify that corrective actions have resolved the nonconformance.",
+      "new_text": "4. Conduct a First Article Inspection (FAI) on the affected equipment, such as the Hydraulic Press (2847.420.0019) or Injection Molding Unit (2847.420.0023), to verify that corrective actions have resolved the nonconformance."
+    }
+  ]
+}

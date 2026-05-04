@@ -1,0 +1,53 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.5.4",
+      "action": "edit",
+      "rationale": "The content of the clause has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "specifically per AIQS 3.5.4,",
+      "new_text": "specifically per AIQS 3.5.4 — Periodic audits and reviews,"
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "This WI applies to all personnel involved in the measurement system analysis within the manufacturing plant. It encompasses the use of equipment asset IDs 2847.310.0061 (Vertical Turning Lathe) and 2847.310.0042 (Horizontal CNC Machining Center) in the execution of Gauge R&R studies as part of the quality assurance process.",
+      "new_text": "This WI applies to all personnel involved in the measurement system analysis within the manufacturing plant. It encompasses the use of equipment asset IDs 2847.310.0061 (Vertical Turning Lathe) and 2847.310.0043 (Horizontal CNC Machining Center) in the execution of Gauge R&R studies as part of the quality assurance process."
+    },
+    {
+      "clause_reference": "4.4.1",
+      "action": "edit",
+      "rationale": "The clause content has been updated to include additional requirements for measurement systems evaluation and documentation.",
+      "old_text": "Ensure that all measuring instruments are calibrated and in compliance with AIQS 4.4.1.",
+      "new_text": "Ensure that all measuring instruments are evaluated for suitability and calibrated in compliance with AIQS 4.4.1."
+    },
+    {
+      "clause_reference": "3.1.4",
+      "action": "flag",
+      "rationale": "AIQS 3.1.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "4. **Data Collection**: Record all measurement data systematically. Ensure that data is collected in accordance with AIQS 3.1.4, which mandates proper documentation practices.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "4.4.2",
+      "action": "flag",
+      "rationale": "AIQS 4.4.2 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "5. **Analysis**: Analyze the collected data to calculate the Gauge R&R percentage. Compare results against the acceptable limits defined in AIQS 4.4.2. If the results indicate unacceptable variation, initiate corrective actions and document findings.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "1. **Preparation**: Gather all necessary tools and measuring devices. Verify that the Vertical Turning Lathe (2847.310.0061) and Horizontal CNC Machining Center (2847.310.0042) are operational and have passed the ORR.",
+      "new_text": "1. **Preparation**: Gather all necessary tools and measuring devices. Verify that the Vertical Turning Lathe (2847.310.0061) and Horizontal CNC Machining Center (2847.310.0043) are operational and have passed the ORR."
+    },
+    {
+      "clause_reference": "4.4.1",
+      "action": "edit",
+      "rationale": "The clause content has been updated to include additional requirements for measurement systems.",
+      "old_text": "as per AIQS 4.4.1.",
+      "new_text": "as per AIQS 4.4.1 — General measurement system requirements and calibration procedures."
+    }
+  ]
+}

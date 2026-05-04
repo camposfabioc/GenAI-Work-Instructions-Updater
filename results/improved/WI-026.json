@@ -1,0 +1,25 @@
+{
+  "edits": [
+    {
+      "clause_reference": "5.1.1",
+      "action": "flag",
+      "rationale": "AIQS 5.1.1 in v2 contains unrelated content (likely renumber cascade) and no similar clause was found elsewhere — human review required.",
+      "old_text": "This Work Instruction (WI) outlines the process for implementing and tracking corrective actions in compliance with the Acme Industrial Quality Standard (AIQS). It aims to ensure nonconformances are addressed effectively to maintain product quality and operational efficiency per AIQS 5.1.1.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "This WI applies to all personnel involved in the corrective action process within the manufacturing plant. It encompasses the use of equipment asset IDs 2847.420.0018 (Hydraulic Press, 12-ton) and 2847.310.0061 (Vertical Turning Lathe) during corrective actions as stipulated in AIQS 4.4.3.",
+      "new_text": "This WI applies to all personnel involved in the corrective action process within the manufacturing plant. It encompasses the use of equipment asset IDs 2847.420.0019 (Hydraulic Press, 12-ton) and 2847.310.0061 (Vertical Turning Lathe) during corrective actions as stipulated in AIQS 4.4.3."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "1. Identify the nonconformance and document it in a Nonconformance Report (NCR) per AIQS 4.2.2. Ensure that the NCR includes detailed descriptions of the issue, affected equipment (e.g., 2847.420.0018), and any relevant operational impacts.",
+      "new_text": "1. Identify the nonconformance and document it in a Nonconformance Report (NCR) per AIQS 4.2.2. Ensure that the NCR includes detailed descriptions of the issue, affected equipment (e.g., 2847.420.0019), and any relevant operational impacts."
+    }
+  ]
+}

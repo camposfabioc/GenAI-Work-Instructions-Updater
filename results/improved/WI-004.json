@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.2.4",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "as per AIQS 3.4.2.",
+      "new_text": "as per AIQS 3.2.4."
+    },
+    {
+      "clause_reference": "3.1.1",
+      "action": "edit",
+      "rationale": "The clause content has been updated to reflect the comprehensive pre-operation check requirements in v2.",
+      "old_text": "as per AIQS 3.1.1.",
+      "new_text": "as per AIQS 3.1.1 — General pre-operation requirements."
+    },
+    {
+      "clause_reference": "3.2.1",
+      "action": "edit",
+      "rationale": "The clause content has been updated to specify the calibration requirements for torque measurement equipment in v2.",
+      "old_text": "as per the standards outlined in AIQS 3.2.1.",
+      "new_text": "as per AIQS 3.2.1 — Calibration of torque equipment."
+    },
+    {
+      "clause_reference": "3.2.4",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "All setup logs are completed and stored according to AIQS 3.4.2.",
+      "new_text": "All setup logs are completed and stored according to AIQS 3.2.4."
+    }
+  ]
+}

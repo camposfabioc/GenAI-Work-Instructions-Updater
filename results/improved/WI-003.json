@@ -1,0 +1,46 @@
+{
+  "edits": [
+    {
+      "clause_reference": "2.2.1",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "specifically per AIQS 2.2.1.",
+      "new_text": "specifically per AIQS 2.1.5."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "This Work Instruction outlines the procedure for monitoring coolant concentration in the Horizontal CNC Machining Center (2847.310.0042) and the Vertical Turning Lathe (2847.310.0061). Maintaining proper coolant concentration is essential to ensure optimal machining performance and adherence to the Acme Industrial Quality Standard (AIQS) guidelines, specifically per AIQS 2.2.1.",
+      "new_text": "This Work Instruction outlines the procedure for monitoring coolant concentration in the Horizontal CNC Machining Center (2847.310.0043) and the Vertical Turning Lathe (2847.310.0061). Maintaining proper coolant concentration is essential to ensure optimal machining performance and adherence to the Acme Industrial Quality Standard (AIQS) guidelines, specifically per AIQS 2.2.1."
+    },
+    {
+      "clause_reference": "3.2.5",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "as stated in AIQS 3.1.2.",
+      "new_text": "as stated in AIQS 3.2.5."
+    },
+    {
+      "clause_reference": "3.4.1",
+      "action": "edit",
+      "rationale": "The content of the clause has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "as per AIQS 3.4.1.",
+      "new_text": "as per AIQS 3.4.1 — Monitoring process parameters."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "1. **Preparation**: Confirm that the Horizontal CNC Machining Center (2847.310.0042) and Vertical Turning Lathe (2847.310.0061) are operational and have been subjected to an Operational Readiness Review (ORR) prior to monitoring.",
+      "new_text": "1. **Preparation**: Confirm that the Horizontal CNC Machining Center (2847.310.0043) and Vertical Turning Lathe (2847.310.0061) are operational and have been subjected to an Operational Readiness Review (ORR) prior to monitoring."
+    },
+    {
+      "clause_reference": "3.2.5",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "AIQS 3.1.2",
+      "new_text": "AIQS 3.2.5"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "transformation_type": "semantic_tone_shift",
+    "v1_clause_ids": ["1.1.1"],
+    "v2_clause_ids": ["1.1.1"],
+    "description": "Hedging language removed; enforceability tightened without an explicit stronger modal verb",
+    "expected_behavior": "flag_for_review",
+    "rationale": "Clause shifted from advisory ('are expected to') to imperative ('shall'), tightening enforceability. WI content may remain technically compliant but should be reviewed to ensure language aligns with the stronger obligation in v2."
+  },
+  {
+    "transformation_type": "semantic_tone_shift",
+    "v1_clause_ids": ["2.1.2"],
+    "v2_clause_ids": ["2.1.2"],
+    "description": "Hedging language removed; enforceability tightened without an explicit stronger modal verb",
+    "expected_behavior": "flag_for_review",
+    "rationale": "Clause shifted from advisory ('is expected to') to imperative ('shall'). WI references to this clause may use conditional language that no longer aligns with the mandatory tone in v2; human review recommended."
+  },
+  {
+    "transformation_type": "semantic_tone_shift",
+    "v1_clause_ids": ["3.1.1"],
+    "v2_clause_ids": ["3.1.1"],
+    "description": "Hedging language removed; enforceability tightened without an explicit stronger modal verb",
+    "expected_behavior": "flag_for_review",
+    "rationale": "Pre-operation check moved from expected practice to mandatory requirement. WI may be compliant in substance but should be reviewed for tone alignment with the stricter v2 wording."
+  },
+  {
+    "transformation_type": "semantic_xref_chain",
+    "v1_clause_ids": ["1.1.3"],
+    "v2_clause_ids": ["1.1.3"],
+    "description": "Clause text unchanged but references a clause that was deprecated or structurally moved; effective meaning altered via chain breakage",
+    "expected_behavior": "flag_for_review",
+    "rationale": "Clause 1.1.3 explicitly references clause 5.1.1, which was deprecated in v2. The clause text is unchanged but its normative anchor no longer exists. Any WI citing 1.1.3 may be relying on guidance that has been withdrawn; human review required to assess impact."
+  },
+  {
+    "transformation_type": "semantic_xref_chain",
+    "v1_clause_ids": ["1.1.4"],
+    "v2_clause_ids": ["1.1.4"],
+    "description": "Clause text unchanged but references a clause that was deprecated or structurally moved; effective meaning altered via chain breakage",
+    "expected_behavior": "flag_for_review",
+    "rationale": "Clause 1.1.4 references clause 3.2.4, which was deprecated in v2. The review-and-update process described in 1.1.4 now references a void clause; WIs citing this clause should be reviewed to verify the review process is still grounded."
+  },
+  {
+    "transformation_type": "semantic_xref_chain",
+    "v1_clause_ids": ["1.2.1"],
+    "v2_clause_ids": ["1.2.1"],
+    "description": "Clause text unchanged but references a clause that was deprecated or structurally moved; effective meaning altered via chain breakage",
+    "expected_behavior": "flag_for_review",
+    "rationale": "Clause 1.2.1 references clause 5.1.3, which was deprecated in v2. The applicability of normative references is now partially grounded in a non-existent clause; WIs citing 1.2.1 should be flagged for review."
+  },
+  {
+    "transformation_type": "semantic_ambiguous_scope",
+    "v1_clause_ids": ["1.2.4"],
+    "v2_clause_ids": ["1.2.4"],
+    "description": "Precise scope qualifier replaced with vague term; interpretation space widened",
+    "expected_behavior": "flag_for_review",
+    "rationale": "Frequency qualifier 'annually' replaced with 'periodically'. A WI scheduling annual documentation reviews remains technically compliant (annual is a valid period), but the looser v2 wording may open compliance gaps; human review recommended to confirm intent."
+  },
+  {
+    "transformation_type": "semantic_ambiguous_scope",
+    "v1_clause_ids": ["1.2.3"],
+    "v2_clause_ids": ["1.2.3"],
+    "description": "Precise scope qualifier replaced with vague term; interpretation space widened",
+    "expected_behavior": "flag_for_review",
+    "rationale": "'All personnel' replaced with 'relevant personnel'. WIs that mandate access for all personnel may now over-specify relative to v2, or may need to define who qualifies as relevant; review recommended."
+  },
+  {
+    "transformation_type": "semantic_ambiguous_scope",
+    "v1_clause_ids": ["4.2.1"],
+    "v2_clause_ids": ["4.2.1"],
+    "description": "Precise scope qualifier replaced with vague term; interpretation space widened",
+    "expected_behavior": "flag_for_review",
+    "rationale": "'At least once per production shift' replaced with 'at regular intervals'. WIs that prescribe shift-based inspection frequency are more specific than v2 now requires; review needed to confirm whether the stricter schedule should be retained or relaxed."
+  },
+  {
+    "transformation_type": "semantic_clause_merge",
+    "v1_clause_ids": ["1.5.1", "1.5.2"],
+    "v2_clause_ids": ["1.5.1"],
+    "description": "Clauses 1.5.1 and 1.5.2 merged into 1.5.1; 1.5.2 removed from v2",
+    "expected_behavior": "edit_required",
+    "rationale": "Clause 1.5.2 no longer exists in v2. Any WI citing 'AIQS 1.5.2' contains a broken reference that must be updated to 'AIQS 1.5.1', which now covers the merged content."
+  },
+  {
+    "transformation_type": "semantic_clause_merge",
+    "v1_clause_ids": ["2.2.1", "2.2.2"],
+    "v2_clause_ids": ["2.2.1"],
+    "description": "Clauses 2.2.1 and 2.2.2 merged into 2.2.1; 2.2.2 removed from v2",
+    "expected_behavior": "edit_required",
+    "rationale": "Clause 2.2.2 no longer exists in v2. WIs citing 'AIQS 2.2.2' must be updated to reference 'AIQS 2.2.1', which absorbs the installation accuracy verification content."
+  },
+  {
+    "transformation_type": "semantic_clause_merge",
+    "v1_clause_ids": ["4.4.1", "4.4.2"],
+    "v2_clause_ids": ["4.4.1"],
+    "description": "Clauses 4.4.1 and 4.4.2 merged into 4.4.1; 4.4.2 removed from v2",
+    "expected_behavior": "edit_required",
+    "rationale": "Clause 4.4.2 no longer exists in v2. WIs citing 'AIQS 4.4.2' contain a broken reference and must be updated to 'AIQS 4.4.1', which now covers both measurement system requirements and calibration procedures."
+  }
+]

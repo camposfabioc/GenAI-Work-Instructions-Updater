@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "2.5.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed from AIQS 2.5.3 to AIQS 2.5.2, which now addresses Lockout/Tagout requirements.",
+      "old_text": "as required by AIQS 2.5.3.",
+      "new_text": "as required by AIQS 2.5.2."
+    },
+    {
+      "clause_reference": "2.3.2",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the reference text.",
+      "old_text": "particularly AIQS 2.3.2, which outlines the requirements for corrective actions.",
+      "new_text": "particularly AIQS 2.3.2, which outlines equipment assessment requirements."
+    },
+    {
+      "clause_reference": "2.1.6",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "Ensure that the plan aligns with the corrective action requirements outlined in AIQS 2.5.1.",
+      "new_text": "Ensure that the plan aligns with the corrective action requirements outlined in AIQS 2.1.6."
+    },
+    {
+      "clause_reference": "2.5.3",
+      "action": "edit",
+      "rationale": "The clause reference has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "ensuring compliance with AIQS 2.5.3",
+      "new_text": "ensuring compliance with AIQS 2.5.2"
+    }
+  ]
+}

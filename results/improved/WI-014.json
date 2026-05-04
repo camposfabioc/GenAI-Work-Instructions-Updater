@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "The purpose of this Work Instruction (WI) is to establish a standardized Lockout-Tagout (LOTO) procedure for maintenance activities on equipment, specifically the Horizontal CNC Machining Center (Asset ID: 2847.310.0042) and the Vertical Turning Lathe (Asset ID: 2847.310.0061). This ensures the safety of personnel and compliance with the Acme Industrial Quality Standard (AIQS).",
+      "new_text": "The purpose of this Work Instruction (WI) is to establish a standardized Lockout-Tagout (LOTO) procedure for maintenance activities on equipment, specifically the Horizontal CNC Machining Center (Asset ID: 2847.310.0043) and the Vertical Turning Lathe (Asset ID: 2847.310.0061). This ensures the safety of personnel and compliance with the Acme Industrial Quality Standard (AIQS)."
+    },
+    {
+      "clause_reference": "2.1.6",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "particularly AIQS 2.3.1, which addresses safety practices.",
+      "new_text": "particularly AIQS 2.1.6, which addresses safety practices."
+    },
+    {
+      "clause_reference": "3.2.4",
+      "action": "edit",
+      "rationale": "The content of AIQS 3.2.4 has changed in v2, necessitating an update to the citation in the Work Instruction.",
+      "old_text": "Ensure compliance with AIQS 3.5.2 for proper labeling.",
+      "new_text": "Ensure compliance with AIQS 3.2.4 for proper labeling."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "2. **Shutdown**: Power down the Horizontal CNC Machining Center (2847.310.0042) and Vertical Turning Lathe (2847.310.0061) using the main control panel. Follow the shutdown procedures outlined in AIQS 3.1.1.",
+      "new_text": "2. **Shutdown**: Power down the Horizontal CNC Machining Center (2847.310.0043) and Vertical Turning Lathe (2847.310.0061) using the main control panel. Follow the shutdown procedures outlined in AIQS 3.1.1."
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "clause_reference": "4.2.1",
+    "old_text": "It encompasses the use of equipment asset IDs 2847.310.0042 (Horizontal CNC Machining Center) and 2847.420.0023 (Injection Molding Unit) in the validation process, as referenced in AIQS 4.2.1.",
+    "new_text": "It encompasses the use of equipment asset IDs 2847.310.0043 (Horizontal CNC Machining Center) and 2847.420.0019 (Hydraulic Press, 12-ton) in the validation process, as referenced in AIQS 4.2.1.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text involves changing the equipment asset IDs and the types of equipment used in the validation process. The clause from the standard focuses on the requirements for in-process inspections, including their frequency and documentation, particularly for processes using precision surface grinders. There is no mention of specific equipment asset IDs or types of equipment in the clause. Therefore, the proposed change is not related to the requirements of the clause and is not entailed by it. The clause does not provide any basis for altering equipment IDs or types in the validation process."
+  },
+  {
+    "clause_reference": "3.2.1",
+    "old_text": "Document any discrepancies as per AIQS 3.2.1.",
+    "new_text": "Document any discrepancies as per AIQS 3.2.1 \u2014 Calibration of torque equipment.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that any deviations identified during the calibration of torque measurement equipment must be addressed promptly. The proposal to document discrepancies as per AIQS 3.2.1 \u2014 Calibration of torque equipment aligns with the requirement to address deviations, as documenting discrepancies is a necessary step in addressing them. The addition of 'Calibration of torque equipment' provides clarity and specificity, which is consistent with the clause's focus on calibration processes. Therefore, the proposal does not introduce any new requirements or constraints absent from the clause."
+  },
+  {
+    "clause_reference": "4.2.1",
+    "old_text": "Ensure that all records are maintained in accordance with AIQS 4.2.1.",
+    "new_text": "Ensure that all records are maintained in accordance with AIQS 4.2.1 \u2014 Inspection frequency requirements.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text introduces a reference to 'Inspection frequency requirements' in relation to AIQS 4.2.1, which is not directly supported by the cited clause. The clause discusses the need for in-process inspections at predetermined intervals based on process criticality and historical performance data, but it does not specify any particular documentation standard or requirement labeled as 'AIQS 4.2.1.' Therefore, the addition of 'Inspection frequency requirements' in the context of AIQS 4.2.1 is not entailed by the clause, as it introduces a specific reference that is not mentioned or implied in the clause itself."
+  },
+  {
+    "clause_reference": "2.3.4",
+    "old_text": "Ensure that equipment asset IDs 2847.310.0042 (Horizontal CNC Machining Center) and 2847.310.0055 (Precision Surface Grinder) are operational and have undergone Lockout-Tagout (LOTO) procedures as per AIQS 2.3.4.",
+    "new_text": "Ensure that equipment asset IDs 2847.310.0043 (Horizontal CNC Machining Center) and 2847.310.0055 (Precision Surface Grinder) are operational and have undergone Lockout-Tagout (LOTO) procedures as per AIQS 2.3.4.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text involves changing the asset ID for the Horizontal CNC Machining Center from 2847.310.0042 to 2847.310.0043. The clause from the standard does not mention specific asset IDs or Lockout-Tagout (LOTO) procedures. Instead, it focuses on the requirement for addressing equipment needing further action after an ORR, specifically for 5-axis CNC machining centers, and ensuring documentation and follow-up reviews. The proposed change does not relate to these requirements and introduces a specific procedural detail (LOTO) and asset ID change that are not covered by the clause. Therefore, the new text is not entailed by the clause."
+  },
+  {
+    "clause_reference": "2.3.4",
+    "old_text": "compliance with AIQS 2.3.4.",
+    "new_text": "compliance with AIQS 2.3.4 \u2014 Follow-up actions post-ORR.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that follow-up actions are required after the ORR, including addressing equipment needing further action, scheduling a follow-up review, and documenting corrective actions. The new text, 'compliance with AIQS 2.3.4 \u2014 Follow-up actions post-ORR,' aligns with these requirements by emphasizing the need for follow-up actions after the ORR. It does not introduce any new requirements or constraints not present in the clause, nor does it contradict the clause's meaning."
+  },
+  {
+    "clause_reference": "3.4.1",
+    "old_text": "as per AIQS 3.4.1.",
+    "new_text": "as per AIQS 3.4.1 \u2014 Monitoring process parameters.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that process parameters must be continuously monitored, which aligns with the addition of 'Monitoring process parameters' to the Work Instruction. The clause also details the requirements for monitoring systems, including real-time data provision, deviation recording, and regular calibration, all of which fall under the broader activity of monitoring process parameters. Therefore, the new text accurately reflects the requirements of the clause without introducing any new claims or constraints."
+  },
+  {
+    "clause_reference": "3.1.1",
+    "old_text": "as per AIQS 3.1.1.",
+    "new_text": "as per AIQS 3.1.1 \u2014 General pre-operation requirements.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text changes the reference from 'as per AIQS 3.1.1.' to 'as per AIQS 3.1.1 \u2014 General pre-operation requirements.' This change is entailed by the clause because the clause outlines general requirements for pre-operation checks, including equipment assessment, safety device verification, and documentation. The addition of 'General pre-operation requirements' accurately reflects the content of the clause without introducing new requirements or distorting its meaning."
+  },
+  {
+    "clause_reference": "3.2.1",
+    "old_text": "as per the standards outlined in AIQS 3.2.1.",
+    "new_text": "as per AIQS 3.2.1 \u2014 Calibration of torque equipment.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that torque measurement equipment must be calibrated according to the manufacturer's specifications and relevant industry standards. By referencing AIQS 3.2.1 specifically for the calibration of torque equipment, the updated text aligns with the requirement to follow relevant standards. The change does not introduce any new requirements or constraints that are not present in the clause, nor does it contradict the clause's meaning. Therefore, the proposal is consistent with the clause's directives."
+  },
+  {
+    "clause_reference": "2.3.2",
+    "old_text": "as outlined in AIQS 2.3.2.",
+    "new_text": "as outlined in AIQS 2.3.2 \u2014 Equipment assessment requirements. Hydraulic presses shall undergo a thorough assessment during the ORR process. This assessment shall include verification of operational functionality, safety compliance, and maintenance status.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The new text directly incorporates the requirements specified in the clause, stating that hydraulic presses must undergo a thorough assessment during the ORR process, which includes verification of operational functionality, safety compliance, and maintenance status. This aligns perfectly with the clause's requirements and does not introduce any additional claims, procedures, or constraints not present in the clause."
+  },
+  {
+    "clause_reference": "3.2.1",
+    "old_text": "Submit the documentation for review as per AIQS 3.2.1.",
+    "new_text": "Submit the documentation for review as per AIQS 3.2.1 \u2014 Calibration of torque equipment.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that calibration records must be maintained and made available for review, which aligns with the instruction to submit documentation for review. The addition of 'Calibration of torque equipment' clarifies the context of the documentation being submitted, which is consistent with the clause's focus on calibration of torque measurement equipment. The proposal does not introduce any new requirements or constraints that are not present in the clause."
+  },
+  {
+    "clause_reference": "1.3.3",
+    "old_text": "as defined in AIQS 1.3.3",
+    "new_text": "as defined in AIQS 1.3.3 \u2014 FAI and LOTO definitions",
+    "entailed": false,
+    "rationale": "The clause from the standard provides a definition for 'FAI' but does not mention 'LOTO' or provide a definition for it. The proposed update to the Work Instruction text implies that both 'FAI' and 'LOTO' are defined in AIQS 1.3.3, which is not supported by the clause. Therefore, the proposal introduces a claim about 'LOTO' that is not present in the cited clause, making it not entailed."
+  },
+  {
+    "clause_reference": "1.1.2",
+    "old_text": "Personnel must complete training on supplier qualification processes and be familiar with AIQS standards, particularly AIQS 1.1.2 and AIQS 1.5.2.",
+    "new_text": "Personnel shall be applicable to all employees, contractors, and third-party vendors involved in the manufacturing process. Training programs shall be established to ensure that all relevant personnel understand their responsibilities under this standard.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text is not faithfully supported by the cited clause from the standard. The clause specifies that the AIQS applies to all employees, contractors, and third-party vendors involved in the manufacturing process, and mandates the establishment of training programs to ensure understanding of responsibilities. However, the proposed text incorrectly states that 'Personnel shall be applicable to all employees, contractors, and third-party vendors,' which is a misinterpretation of the clause. The clause does not state that 'personnel' are applicable, but rather that the AIQS is applicable to these groups. Additionally, the proposed text omits the requirement for maintaining records of training completion and addressing non-compliance, which are key components of the clause. Therefore, the proposed text distorts the meaning of the clause and is not entailed by it."
+  },
+  {
+    "clause_reference": "1.3.3",
+    "old_text": "AIQS 1.3.3",
+    "new_text": "AIQS 1.3.3 \u2014 FAI and LOTO definitions 'FAI' and 'LOTO' shall be defined in the context of quality assurance as follows: 'FAI' refers to First Article Inspection, a process that verifies that the first production unit meets all specified requirements before full-scale manufacturing begins.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause explicitly defines 'FAI' as 'First Article Inspection' and describes it as a process that verifies the first production unit meets all specified requirements before full-scale manufacturing begins. The proposed text accurately incorporates this definition without adding any additional claims or procedures not present in the clause. The proposal does not address 'LOTO,' but it does not contradict or distort the meaning of the clause regarding 'FAI.' Therefore, the proposal is aligned with the requirements stated in the clause."
+  },
+  {
+    "clause_reference": "3.2.1",
+    "old_text": "thereby reducing the likelihood of Nonconformance Reports (NCRs) per AIQS 3.2.1.",
+    "new_text": "thereby reducing the likelihood of Nonconformance Reports (NCRs) per AIQS 3.2.1 \u2014 Calibration of torque equipment. Torque measurement equipment associated with servo-hydraulic presses shall be calibrated at specified intervals to ensure accuracy. Calibration records shall be maintained and made available for review. The calibration process shall follow the manufacturer's specifications and relevant industry standards. Any deviations identified during calibration shall be addressed promptly to maintain compliance with operational controls.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the cited clause from the standard. The new text directly incorporates the requirements from the clause, including the need for calibration at specified intervals, maintaining and reviewing calibration records, following manufacturer's specifications and industry standards, and addressing deviations promptly. These elements align with the clause's requirements and do not introduce any additional claims or constraints not present in the clause. Therefore, the proposal is faithfully supported by the clause."
+  },
+  {
+    "clause_reference": "2.1.4",
+    "old_text": "Follow the guidelines set forth in AIQS 2.1.4 to maintain compliance.",
+    "new_text": "Follow the guidelines set forth in AIQS 2.1.4 \u2014 Asset identification verification to maintain compliance.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies requirements for periodic verification of asset identification, including ensuring equipment is accurately tagged and documented, and addressing discrepancies with corrective actions. The updated text in the Work Instruction specifies that the guidelines in AIQS 2.1.4 pertain to 'Asset identification verification,' which aligns with the clause's focus on verifying asset identification. The update does not introduce any new claims or procedures not present in the clause, nor does it distort the clause's meaning. Therefore, the proposal is faithfully supported by the clause."
+  },
+  {
+    "clause_reference": "3.2.1",
+    "old_text": "Ensure that all documentation is completed in accordance with AIQS 3.2.1 and is accessible for future reference.",
+    "new_text": "Ensure that all documentation is completed in accordance with AIQS 3.2.1 \u2014 Calibration of torque equipment and is accessible for future reference.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text specifies that documentation should be completed in accordance with AIQS 3.2.1, specifically mentioning 'Calibration of torque equipment.' However, the clause from the standard does not reference AIQS 3.2.1 or any specific documentation standard. The clause focuses on the calibration of torque measurement equipment, maintaining records, and addressing deviations, but it does not specify or require adherence to AIQS 3.2.1. Therefore, the proposal introduces a specific documentation standard that is not mentioned in the clause, making it not entailed by the clause."
+  },
+  {
+    "clause_reference": "1.2.3",
+    "old_text": "per AIQS 1.2.3.",
+    "new_text": "per AIQS 1.2.3 \u2014 Access to normative references.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text changes the reference from simply citing 'AIQS 1.2.3' to specifying 'Access to normative references.' However, the clause from the standard includes several specific requirements beyond just access, such as the formats in which references should be available, the provision of training, and the establishment of a centralized repository. The proposed text does not capture these additional requirements and focuses solely on access, which is only one part of the clause. Therefore, the proposal is not fully supported by the clause as it omits significant elements that are part of the standard's requirements."
+  },
+  {
+    "clause_reference": "1.4.1",
+    "old_text": "This aligns with the requirements outlined in AIQS 1.4.1.",
+    "new_text": "This aligns with the requirements outlined in AIQS 1.4.1 \u2014 Operator responsibilities for LOTO. Operators shall be responsible for the implementation of the Lockout/Tagout (LOTO) procedures as outlined in the Operational Risk Reduction (ORR) documentation.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The new text specifies that operators are responsible for the implementation of LOTO procedures as outlined in the ORR documentation, which directly aligns with the requirements stated in the clause. The clause explicitly states that operators shall be responsible for implementing LOTO procedures according to the ORR documentation. The proposal does not introduce any new claims, procedures, or constraints that are absent from the clause, nor does it contradict or distort the clause's meaning. Therefore, the proposal is faithfully supported by the cited clause."
+  },
+  {
+    "clause_reference": "2.1.2",
+    "old_text": "in accordance with AIQS 2.1.2.",
+    "new_text": "in accordance with AIQS 2.1.2 \u2014 Documentation of asset details. A comprehensive inventory of all tagged equipment shall be maintained, including details such as the asset number, location, and operational status.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The new text specifies that a comprehensive inventory of all tagged equipment shall be maintained, including details such as the asset number, location, and operational status. This aligns directly with the requirements stated in the clause, which mandates maintaining such an inventory with those specific details. The proposal does not introduce any new claims, procedures, or constraints that are absent from the clause, nor does it contradict the clause's requirements. Therefore, the proposal is faithfully supported by the cited clause."
+  },
+  {
+    "clause_reference": "4.1.2",
+    "old_text": "per AIQS 4.1.2.",
+    "new_text": "per AIQS 4.1.2 \u2014 Documentation requirements.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies documentation requirements related to maintaining records of the first article inspection, including the duration for which records must be kept, the content of the records, and the accessibility of the documentation. The addition of '\u2014 Documentation requirements' to the reference 'per AIQS 4.1.2' accurately reflects the focus of the clause on documentation, without introducing any new claims or constraints not present in the clause. Therefore, the proposal aligns with the requirements stated in the clause."
+  },
+  {
+    "clause_reference": "5.5.4",
+    "old_text": "as per AIQS 5.5.4.",
+    "new_text": "as per AIQS 5.5.4 \u2014 Retention policy review.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that the records retention policy must be reviewed annually, which aligns with the notion of a 'retention policy review' as mentioned in the updated text. The change from a generic reference to a more specific one ('Retention policy review') does not introduce any new requirements or constraints that are absent from the clause. It simply clarifies the focus of the reference, which is consistent with the clause's emphasis on reviewing the retention policy. Therefore, the proposal is supported by the clause."
+  },
+  {
+    "clause_reference": "1.3.2",
+    "old_text": "as specified in AIQS 1.3.2.",
+    "new_text": "as specified in AIQS 1.3.2 \u2014 Definitions of LOTO and ORR: 'LOTO' is the Lockout/Tagout procedure that safeguards personnel during maintenance activities by preventing the unexpected energization of machinery. 'ORR' stands for Operational Readiness Review, which is a systematic evaluation conducted to ensure that Class-B rotating equipment and processes are prepared for safe and effective operation. Understanding these definitions is critical for compliance with safety and operational protocols.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The new text directly incorporates the definitions of 'LOTO' and 'ORR' as provided in the clause, without adding any additional information or requirements. It accurately reflects the content of the clause by including the definitions and the importance of understanding them for compliance with safety and operational protocols. Therefore, the proposal aligns with the requirements stated in the clause and does not introduce any new claims or distort the clause's meaning."
+  },
+  {
+    "clause_reference": "1.2.4",
+    "old_text": "AIQS 1.2.4",
+    "new_text": "AIQS 1.2.4 \u2014 Documentation of normative references shall be maintained to provide a clear record of all applicable standards and guidelines. Each reference shall be cataloged with relevant details, including title, version, and date of publication. This documentation shall be reviewed periodically to ensure its completeness and accuracy. Records shall be retained for a minimum of five years to support audits and compliance assessments related to the AIQS.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is a direct restatement of the clause from the standard. It includes all the requirements specified in the clause, such as maintaining documentation of normative references, cataloging each reference with relevant details, periodic review for completeness and accuracy, and retaining records for a minimum of five years. There are no additional claims, procedures, or constraints introduced in the new text that are absent from the clause. Therefore, the new text is faithfully supported by the clause."
+  },
+  {
+    "clause_reference": "1.4.1",
+    "old_text": "quality checks required per AIQS 1.4.1.",
+    "new_text": "Lockout/Tagout (LOTO) procedures as outlined in the Operational Risk Reduction (ORR) documentation per AIQS 1.4.1.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text changes the focus from 'quality checks' to 'Lockout/Tagout (LOTO) procedures.' The clause from the standard specifies that operators are responsible for implementing LOTO procedures as outlined in the ORR documentation, ensuring energy sources are controlled during maintenance, and monitoring compliance. However, the clause does not mention 'AIQS 1.4.1,' nor does it relate to 'quality checks.' Therefore, the proposed text introduces a reference to 'AIQS 1.4.1' that is not present in the clause, and it shifts the context from quality checks to LOTO procedures without clear justification from the clause. This makes the proposal not entailed by the clause."
+  },
+  {
+    "clause_reference": "1.3.2",
+    "old_text": "AIQS 1.3.2.",
+    "new_text": "AIQS 1.3.2 \u2014 Definitions of LOTO and ORR 'LOTO' and 'ORR' shall be defined as follows: 'LOTO' is the Lockout/Tagout procedure that safeguards personnel during maintenance activities by preventing the unexpected energization of machinery. 'ORR' stands for Operational Readiness Review, which is a systematic evaluation conducted to ensure that Class-B rotating equipment and processes are prepared for safe and effective operation. Understanding these definitions is critical for compliance with safety and operational protocols.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the cited clause from the standard. The new text directly incorporates the definitions of 'LOTO' and 'ORR' as provided in the clause, without adding or omitting any information. It also includes the statement about the importance of understanding these definitions for compliance, which is present in the clause. Therefore, the proposal aligns with the requirements stated in the clause and does not introduce any new claims, procedures, or constraints."
+  },
+  {
+    "clause_reference": "3.5.4",
+    "old_text": "specifically per AIQS 3.5.4,",
+    "new_text": "specifically per AIQS 3.5.4 \u2014 Periodic audits and reviews,",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause explicitly requires 'Periodic audits of lockout/tagout procedures' and mentions that these audits should include reviews of documentation, training records, and adherence to protocols. The addition of 'Periodic audits and reviews' in the Work Instruction aligns with the clause's requirement for periodic audits and the review of various elements related to lockout/tagout procedures. The proposal does not introduce any new requirements or constraints that are not present in the clause, nor does it contradict the clause's meaning."
+  },
+  {
+    "clause_reference": "4.4.1",
+    "old_text": "Ensure that all measuring instruments are calibrated and in compliance with AIQS 4.4.1.",
+    "new_text": "Ensure that all measuring instruments are evaluated for suitability and calibrated in compliance with AIQS 4.4.1.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that measurement systems must be evaluated for their suitability, which includes an assessment of accuracy, precision, and stability. The new text aligns with this requirement by stating that measuring instruments should be evaluated for suitability. Additionally, the clause requires calibration procedures to be established, which is consistent with the new text's emphasis on ensuring instruments are calibrated. Therefore, the proposed change is supported by the clause as it reflects the requirements for both evaluation and calibration of measurement systems."
+  },
+  {
+    "clause_reference": "4.4.1",
+    "old_text": "as per AIQS 4.4.1.",
+    "new_text": "as per AIQS 4.4.1 \u2014 General measurement system requirements and calibration procedures.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause outlines general requirements for measurement systems, including evaluation for suitability, documentation, regular review, and calibration procedures. The new text, 'as per AIQS 4.4.1 \u2014 General measurement system requirements and calibration procedures,' accurately reflects the content of the clause by summarizing its focus on both general requirements for measurement systems and specific calibration procedures. Therefore, the update aligns with the requirements stated in the clause without introducing any new claims or constraints."
+  },
+  {
+    "clause_reference": "3.1.1",
+    "old_text": "Review the AIQS documentation, particularly clauses AIQS 3.1.1 and AIQS 3.1.4, to understand the quality standards related to calibration.",
+    "new_text": "Prior to commencing any operational activities, a comprehensive pre-operation check shall be conducted. This check shall include an assessment of all relevant equipment, ensuring that each component is functioning correctly and safely. Operators shall verify that all safety devices are in place and operational. Documentation of the pre-operation check shall be maintained for future reference and compliance verification.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is directly aligned with the requirements stated in the clause from the standard. The new text mirrors the clause almost verbatim, ensuring that a comprehensive pre-operation check is conducted, relevant equipment is assessed, safety devices are verified, and documentation is maintained. There are no additional claims, procedures, or constraints introduced in the new text that are absent from the clause. Therefore, the proposal is entailed by the clause."
+  },
+  {
+    "clause_reference": "3.5.4",
+    "old_text": "Follow the guidelines set forth in AIQS 3.5.4 to maintain the integrity of the calibration process and ensure compliance with quality standards.",
+    "new_text": "Follow the guidelines set forth in AIQS 3.5.4 to conduct periodic audits of lockout/tagout procedures and assess compliance and effectiveness.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text is not entailed by the cited clause from the standard. The clause specifically addresses the requirement for periodic audits of lockout/tagout procedures, including reviewing documentation, training records, and adherence to protocols, and addressing deficiencies with corrective actions. However, the original Work Instruction text pertains to maintaining the integrity of the calibration process, which is unrelated to lockout/tagout procedures. The proposed change introduces a new focus on lockout/tagout audits, which is not supported by the original context of the Work Instruction. Therefore, the proposal introduces a new requirement not present in the original text, and it does not align with the clause's focus on energy isolation practices."
+  },
+  {
+    "clause_reference": "2.3.2",
+    "old_text": "particularly AIQS 2.3.2, which outlines the requirements for corrective actions.",
+    "new_text": "particularly AIQS 2.3.2, which outlines equipment assessment requirements.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that hydraulic presses must undergo a thorough assessment during the ORR process, which includes verification of operational functionality, safety compliance, and maintenance status. This aligns with the notion of 'equipment assessment requirements' as mentioned in the updated text. The original text referring to 'corrective actions' does not directly relate to the assessment requirements outlined in the clause. Therefore, the new text accurately reflects the focus on equipment assessment as required by the clause."
+  },
+  {
+    "clause_reference": "3.1.1",
+    "old_text": "per AIQS 3.1.1.",
+    "new_text": "according to AIQS 3.1.1.",
+    "entailed": true,
+    "rationale": "The proposed change from 'per AIQS 3.1.1.' to 'according to AIQS 3.1.1.' is a minor linguistic adjustment that does not alter the meaning or introduce any new requirements. Both phrases indicate that the actions should be in compliance with the specified clause of the standard. The clause requires a comprehensive pre-operation check, including equipment assessment, verification of safety devices, and documentation. The change in wording does not affect these requirements and remains consistent with the clause's intent. Therefore, the proposal is entailed by the clause."
+  },
+  {
+    "clause_reference": "3.4.1",
+    "old_text": "referencing AIQS 3.4.1 for compliance criteria.",
+    "new_text": "referencing AIQS 3.4.1 for monitoring process parameters.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that process parameters must be continuously monitored to ensure compliance with established specifications, which aligns with the proposed text's focus on monitoring process parameters. The clause also emphasizes the importance of monitoring systems, including those associated with 5-axis CNC machining centers, and the need for real-time data on critical parameters. Therefore, referencing AIQS 3.4.1 for monitoring process parameters is consistent with the requirements of the clause, as it pertains to the monitoring aspect of compliance."
+  },
+  {
+    "clause_reference": "3.4.1",
+    "old_text": "Refer to AIQS 3.4.1 for specific setup requirements.",
+    "new_text": "Refer to AIQS 3.4.1 for monitoring process parameters.",
+    "entailed": true,
+    "rationale": "The proposed change in the Work Instruction text is entailed by the clause from the standard. The clause emphasizes the importance of continuously monitoring process parameters to ensure compliance with specifications, which aligns with the instruction to refer to AIQS 3.4.1 for monitoring process parameters. The clause does not specifically mention setup requirements, so the change to focus on monitoring is consistent with the clause's requirements. The new text does not introduce any new claims or procedures not present in the clause, nor does it contradict the clause's meaning."
+  },
+  {
+    "clause_reference": "3.2.1",
+    "old_text": "ensuring that all tools are calibrated as per AIQS 3.2.1.",
+    "new_text": "ensuring that all measuring tools are calibrated at specified intervals to ensure accuracy as per AIQS 3.2.1.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text is not fully entailed by the clause from the standard. The clause specifically addresses 'torque measurement equipment associated with servo-hydraulic presses' and requires calibration at specified intervals to ensure accuracy. However, the proposed text refers to 'all measuring tools,' which broadens the scope beyond what the clause specifies. Additionally, the clause includes requirements for maintaining calibration records, following manufacturer's specifications and industry standards, and addressing deviations, none of which are mentioned in the proposed text. Therefore, the proposal introduces a broader requirement not present in the clause and omits other critical elements, making it not faithfully supported by the clause."
+  },
+  {
+    "clause_reference": "3.5.4",
+    "old_text": "escalate the issue as per AIQS 3.5.4.",
+    "new_text": "escalate the issue as per AIQS 3.5.4, which includes a review of documentation and adherence to established protocols.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that audits of lockout/tagout procedures must include a review of documentation and adherence to established protocols. The proposed text aligns with this requirement by explicitly stating that the escalation process includes these elements. It does not introduce any new requirements or constraints that are not present in the clause, nor does it contradict the clause's meaning. Therefore, the proposal is faithfully supported by the clause."
+  },
+  {
+    "clause_reference": "3.4.1",
+    "old_text": "Ensure that all verification activities comply with AIQS 3.4.1 and that personnel involved in the verification process are qualified and trained.",
+    "new_text": "Ensure that all verification activities comply with AIQS 3.4.1, which requires continuous monitoring of process parameters to ensure compliance with established specifications, and that personnel involved in the verification process are qualified and trained.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text introduces a requirement for verification activities to include continuous monitoring of process parameters, which is not explicitly stated in the cited clause. The clause specifically mandates continuous monitoring of process parameters for 5-axis CNC machining centers, but it does not extend this requirement to all verification activities. Additionally, the clause does not mention AIQS 3.4.1, so the reference to this standard in the context of continuous monitoring is not supported by the clause. Therefore, the proposal introduces a broader requirement than what is specified in the clause, making it not entailed."
+  },
+  {
+    "clause_reference": "5.5.4",
+    "old_text": "Ensure the form is reviewed and approved by the Quality Assurance team as per AIQS 5.5.4.",
+    "new_text": "Ensure the form is reviewed and approved by the Quality Assurance team as per AIQS 5.5.4, which requires an annual review of the records retention policy to ensure its effectiveness and compliance with applicable regulations.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text is not entailed by the cited clause from the standard. The clause specifies requirements for reviewing the records retention policy, including annual reviews, documentation of updates, communication to personnel, and stakeholder involvement. However, the proposed text refers to the review and approval of a form by the Quality Assurance team, which is not mentioned in the clause. Additionally, the clause does not specify that the Quality Assurance team is responsible for the review, nor does it mention AIQS 5.5.4. Therefore, the proposed text introduces elements not present in the clause and does not align with its requirements."
+  },
+  {
+    "clause_reference": "3.2.6",
+    "old_text": "Adjust the diamond dressing tool to the appropriate height and angle for the grinding wheel.",
+    "new_text": "Adjust the diamond dressing tool to the appropriate height and angle for the grinding wheel, ensuring that adjustments are performed only by qualified personnel following established procedures, and document any changes made.",
+    "entailed": false,
+    "rationale": "The proposed update partially aligns with the clause by specifying that adjustments should be made by qualified personnel following established procedures and that changes should be documented. However, it does not fully capture all the requirements of the clause. The clause also requires documenting the rationale for the adjustment and the expected impact on the process, which is not mentioned in the proposed text. Additionally, the clause advises implementing a verification step post-adjustment to confirm the effectiveness of the changes, which is also absent from the proposed text. Therefore, the proposal is not fully entailed by the clause as it omits several key requirements."
+  },
+  {
+    "clause_reference": "3.2.5",
+    "old_text": "according to AIQS 3.1.2 and AIQS 2.4.3.",
+    "new_text": "according to AIQS 3.2.5.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text changes the reference from 'AIQS 3.1.2 and AIQS 2.4.3' to 'AIQS 3.2.5.' The clause from the standard specifies requirements for equipment inspection, including following a checklist, verifying critical parameters, addressing discrepancies, and retaining records. However, the clause does not mention any specific AIQS references or codes. Without knowing the content of AIQS 3.2.5, it is impossible to determine if this change aligns with the clause. The proposal introduces a reference that is not supported or mentioned in the clause, making it not entailed by the clause."
+  },
+  {
+    "clause_reference": "1.2.4",
+    "old_text": "per AIQS 1.2.4.",
+    "new_text": "per AIQS 1.2.4 \u2014 Documentation of normative references.",
+    "entailed": false,
+    "rationale": "The proposed update to the Work Instruction text changes the reference from a simple citation ('per AIQS 1.2.4.') to a more descriptive phrase ('per AIQS 1.2.4 \u2014 Documentation of normative references'). However, the clause from the standard does not specify how references should be cited in documentation or work instructions. It only requires that documentation of normative references be maintained with specific details and reviewed periodically. The clause does not mandate or suggest that the title 'Documentation of normative references' be included in citations. Therefore, the proposed change introduces a specific way of citing references that is not present in the clause, making it not entailed by the clause."
+  },
+  {
+    "clause_reference": "1.3.3",
+    "old_text": "specifically AIQS 1.3.3.",
+    "new_text": "specifically AIQS 1.3.3 \u2014 FAI and LOTO definitions 'FAI' and 'LOTO' shall be defined in the context of quality assurance as follows: 'FAI' refers to First Article Inspection, a process that verifies that the first production unit meets all specified requirements before full-scale manufacturing begins.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause explicitly defines 'FAI' as First Article Inspection and describes its purpose in the context of quality assurance. The proposed text accurately incorporates this definition and context without introducing any additional claims or procedures not present in the clause. Therefore, the update aligns with the requirements stated in the clause and is faithfully supported."
+  },
+  {
+    "clause_reference": "2.1.4",
+    "old_text": "Review previous audit reports and Nonconformance Reports (NCRs) to identify areas of concern per AIQS 2.1.4.",
+    "new_text": "Periodic verification of asset identification shall be conducted to ensure that all equipment is accurately tagged and documented per AIQS 2.1.4.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The new text aligns with the requirements stated in the clause, which mandates periodic verification of asset identification to ensure accurate tagging and documentation of equipment. The proposal does not introduce any new claims, procedures, or constraints that are absent from the clause. It directly reflects the clause's requirement for periodic verification and the goal of maintaining accurate asset identification, thus maintaining fidelity to the standard."
+  },
+  {
+    "clause_reference": "2.1.4",
+    "old_text": "as outlined in AIQS 2.1.4.",
+    "new_text": "as outlined in AIQS 2.1.4 \u2014 Asset identification verification.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies the requirement for periodic verification of asset identification, which aligns with the term 'Asset identification verification' in the updated text. The clause also details the need for checks on equipment and addressing discrepancies, which are components of an asset identification verification process. Therefore, the new text accurately reflects the requirements of the clause without introducing any additional claims or constraints."
+  },
+  {
+    "clause_reference": "1.3.3",
+    "old_text": "per AIQS 1.3.3.",
+    "new_text": "per AIQS 1.3.3 \u2014 FAI and LOTO definitions.",
+    "entailed": false,
+    "rationale": "The clause from the standard provides a definition for 'FAI' but does not mention 'LOTO' or provide a definition for it. The proposed update to the Work Instruction text implies that both 'FAI' and 'LOTO' are defined in AIQS 1.3.3, which is not supported by the clause. Therefore, the proposal introduces a claim about 'LOTO' that is not present in the cited clause, making it not entailed by the clause."
+  },
+  {
+    "clause_reference": "2.1.4",
+    "old_text": "Follow up on the implementation of corrective actions to ensure compliance with AIQS standards, particularly AIQS 2.1.4.",
+    "new_text": "Follow up on the implementation of corrective actions to ensure compliance with AIQS standards, particularly AIQS 2.1.4 \u2014 Asset identification verification.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that any discrepancies identified during the asset identification verification process must be addressed immediately and that corrective actions should be documented. The updated text emphasizes following up on the implementation of corrective actions to ensure compliance with the asset identification verification requirements, which aligns with the clause's directive to maintain the integrity of the asset identification system. The reference to AIQS 2.1.4 \u2014 Asset identification verification \u2014 is consistent with the clause's focus on verifying asset identification and addressing discrepancies."
+  },
+  {
+    "clause_reference": "3.1.1",
+    "old_text": "Document the process per AIQS 3.1.1.",
+    "new_text": "Conduct a comprehensive pre-operation check per AIQS 3.1.1.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause explicitly requires a 'comprehensive pre-operation check' to be conducted before any operational activities begin. The proposed text aligns with this requirement by instructing to 'Conduct a comprehensive pre-operation check per AIQS 3.1.1.' This change does not introduce any new requirements or constraints that are not present in the clause. It simply aligns the Work Instruction with the requirement to conduct the check as specified in the standard."
+  },
+  {
+    "clause_reference": "2.3.4",
+    "old_text": "as required by AIQS 2.3.4.",
+    "new_text": "as required by AIQS 2.3.4 \u2014 Follow-up actions post-ORR.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The clause specifies that follow-up actions are required after the ORR, including addressing equipment needing further action, scheduling a follow-up review, and documenting corrective actions. The new text, 'Follow-up actions post-ORR,' accurately reflects these requirements without introducing any new claims or procedures not present in the clause. Therefore, the update aligns with the clause's requirements and is faithfully supported."
+  },
+  {
+    "clause_reference": "2.1.5",
+    "old_text": "as required by AIQS 2.3.3 and AIQS 2.4.3.",
+    "new_text": "as required by AIQS 2.1.5.",
+    "entailed": false,
+    "rationale": "The proposed change in the Work Instruction text does not align with the clause provided. The clause specifies requirements for documenting and maintaining records of the Operational Readiness Review (ORR), including the content of the report and access to records. It does not mention or relate to any specific requirements labeled as AIQS 2.1.5, AIQS 2.3.3, or AIQS 2.4.3. Without additional context on what these references entail, it is impossible to determine if the change is supported by the clause. Therefore, the proposal introduces a reference that is not substantiated by the clause, making it not entailed."
+  },
+  {
+    "clause_reference": "3.2.1",
+    "old_text": "Document any findings in accordance with AIQS 3.2.1.",
+    "new_text": "Document any findings in accordance with AIQS 3.2.1 \u2014 Calibration of torque equipment. Torque measurement equipment associated with servo-hydraulic presses shall be calibrated at specified intervals to ensure accuracy. Calibration records shall be maintained and made available for review. The calibration process shall follow the manufacturer's specifications and relevant industry standards. Any deviations identified during calibration shall be addressed promptly to maintain compliance with operational controls.",
+    "entailed": true,
+    "rationale": "The proposed update to the Work Instruction text is entailed by the clause from the standard. The new text directly incorporates the requirements stated in the clause: it specifies that torque measurement equipment must be calibrated at specified intervals, that calibration records must be maintained and available for review, that the calibration process must follow the manufacturer's specifications and relevant industry standards, and that any deviations identified during calibration must be addressed promptly. These elements align with the requirements of the clause and do not introduce any additional claims, procedures, or constraints not present in the clause."
+  }
+]

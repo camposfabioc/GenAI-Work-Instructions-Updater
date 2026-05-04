@@ -1,0 +1,18 @@
+{
+  "edits": [
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "This instruction applies to all operators and maintenance personnel responsible for the Vertical Turning Lathe (Asset ID: 2847.310.0061) and the Hydraulic Press, 12-ton (Asset ID: 2847.420.0018). Compliance with this Work Instruction is mandatory to prevent Nonconformance Reports (NCR) and ensure adherence to AIQS 2.2.3.",
+      "new_text": "This instruction applies to all operators and maintenance personnel responsible for the Vertical Turning Lathe (Asset ID: 2847.310.0061) and the Hydraulic Press, 12-ton (Asset ID: 2847.420.0019). Compliance with this Work Instruction is mandatory to prevent Nonconformance Reports (NCR) and ensure adherence to AIQS 2.2.3."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "- For the Hydraulic Press (2847.420.0018):",
+      "new_text": "- For the Hydraulic Press (2847.420.0019):"
+    }
+  ]
+}

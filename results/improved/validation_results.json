@@ -1,0 +1,1263 @@
+[
+  {
+    "wi_id": "WI-001",
+    "clause_reference": "4.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_reference": "3.4.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_reference": "3.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_reference": "4.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-001",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_reference": "2.3.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_reference": "2.5.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-002",
+    "clause_reference": "2.3.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_reference": "2.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_reference": "3.2.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_reference": "3.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-003",
+    "clause_reference": "3.2.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_reference": "3.2.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_reference": "3.1.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_reference": "3.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-004",
+    "clause_reference": "3.2.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-005",
+    "clause_reference": "5.4.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-005",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-005",
+    "clause_reference": "5.4.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-006",
+    "clause_reference": "3.1.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-007",
+    "clause_reference": "2.3.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-007",
+    "clause_reference": "3.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_reference": "1.3.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_reference": "1.5.2",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_reference": "1.1.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_reference": "1.3.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-008",
+    "clause_reference": "1.5.2",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-009",
+    "clause_reference": "3.4.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-009",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-009",
+    "clause_reference": "3.4.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-009",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_reference": "3.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_reference": "3.2.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_reference": "2.1.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-010",
+    "clause_reference": "3.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-011",
+    "clause_reference": "1.2.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-011",
+    "clause_reference": "1.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-011",
+    "clause_reference": "2.1.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-012",
+    "clause_reference": "4.1.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-012",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-012",
+    "clause_reference": "5.5.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_reference": "1.3.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_reference": "2.1.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_reference": "1.2.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_reference": "1.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_reference": "2.1.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-013",
+    "clause_reference": "1.3.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_reference": "2.1.6",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_reference": "3.2.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-014",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_reference": "3.5.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_reference": "4.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_reference": "3.1.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_reference": "4.4.2",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-015",
+    "clause_reference": "4.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_reference": "3.1.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_reference": "3.4.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_reference": "3.1.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_reference": "3.5.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-016",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_reference": "2.5.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_reference": "2.3.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_reference": "2.1.6",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-017",
+    "clause_reference": "2.5.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_reference": "3.4.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_reference": "3.1.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-018",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_reference": "4.2.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_reference": "4.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-019",
+    "clause_reference": "3.2.6",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-020",
+    "clause_reference": "3.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_reference": "3.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_reference": "3.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_reference": "3.5.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-021",
+    "clause_reference": "3.4.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-022",
+    "clause_reference": "2.5.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-022",
+    "clause_reference": "3.2.4",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-022",
+    "clause_reference": "2.5.2",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-023",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-023",
+    "clause_reference": "5.5.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-023",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_reference": "3.2.6",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_reference": "2.2.2",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_reference": "3.2.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_reference": "3.2.6",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-024",
+    "clause_reference": "3.2.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "1.2.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "1.3.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "2.1.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "1.3.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "2.1.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "1.3.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "1.3.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-025",
+    "clause_reference": "2.1.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-026",
+    "clause_reference": "5.1.1",
+    "action": "flag",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-026",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-026",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-027",
+    "clause_reference": "3.1.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-027",
+    "clause_reference": "2.5.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-028",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-028",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "2.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "2.3.3",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "3.4.3",
+    "action": "edit",
+    "ref_valid": false,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "2.3.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "2.3.4",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "2.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "3.4.3",
+    "action": "edit",
+    "ref_valid": false,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "2.1.5",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": false,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  },
+  {
+    "wi_id": "WI-029",
+    "clause_reference": "0.0.0",
+    "action": "edit",
+    "ref_valid": null,
+    "entailment_valid": null,
+    "glossary_check": null
+  },
+  {
+    "wi_id": "WI-030",
+    "clause_reference": "3.2.1",
+    "action": "edit",
+    "ref_valid": true,
+    "entailment_valid": true,
+    "glossary_check": {
+      "preservation": true,
+      "migration": true
+    }
+  }
+]

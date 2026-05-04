@@ -1,0 +1,39 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.2.6",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "ensuring adherence to AIQS standards, particularly AIQS 3.4.3.",
+      "new_text": "ensuring adherence to AIQS standards, particularly AIQS 3.2.6."
+    },
+    {
+      "clause_reference": "2.2.2",
+      "action": "flag",
+      "rationale": "AIQS 2.2.2 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "4. Complete Lockout-Tagout (LOTO) procedures to ensure the machine is de-energized and cannot be inadvertently started during the dressing process, following AIQS 2.2.2.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "3.2.5",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "Conduct an Operational Readiness Review (ORR) of the Precision Surface Grinder (2847.310.0055) to confirm it is in safe working condition, as outlined in AIQS 3.1.2.",
+      "new_text": "Conduct an Operational Readiness Review (ORR) of the Precision Surface Grinder (2847.310.0055) to confirm it is in safe working condition, as outlined in AIQS 3.2.5."
+    },
+    {
+      "clause_reference": "3.2.6",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the procedure for adjustments.",
+      "old_text": "Adjust the diamond dressing tool to the appropriate height and angle for the grinding wheel.",
+      "new_text": "Adjust the diamond dressing tool to the appropriate height and angle for the grinding wheel, ensuring that adjustments are performed only by qualified personnel following established procedures, and document any changes made."
+    },
+    {
+      "clause_reference": "3.2.5",
+      "action": "edit",
+      "rationale": "The clause number has changed in v2, requiring an update to the citation.",
+      "old_text": "according to AIQS 3.1.2 and AIQS 2.4.3.",
+      "new_text": "according to AIQS 3.2.5."
+    }
+  ]
+}

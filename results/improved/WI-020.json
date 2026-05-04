@@ -1,0 +1,11 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.4.1",
+      "action": "edit",
+      "rationale": "The content of AIQS 3.4.1 has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "referencing AIQS 3.4.1 for compliance criteria.",
+      "new_text": "referencing AIQS 3.4.1 for monitoring process parameters."
+    }
+  ]
+}

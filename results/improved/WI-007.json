@@ -1,0 +1,18 @@
+{
+  "edits": [
+    {
+      "clause_reference": "2.3.2",
+      "action": "edit",
+      "rationale": "The content of the clause has changed in v2 to specify the assessment requirements for hydraulic presses during the ORR process.",
+      "old_text": "as outlined in AIQS 2.3.2.",
+      "new_text": "as outlined in AIQS 2.3.2 — Equipment assessment requirements. Hydraulic presses shall undergo a thorough assessment during the ORR process. This assessment shall include verification of operational functionality, safety compliance, and maintenance status."
+    },
+    {
+      "clause_reference": "3.2.1",
+      "action": "edit",
+      "rationale": "The content of AIQS 3.2.1 has changed in v2, requiring an update to the citation in the documentation process.",
+      "old_text": "Submit the documentation for review as per AIQS 3.2.1.",
+      "new_text": "Submit the documentation for review as per AIQS 3.2.1 — Calibration of torque equipment."
+    }
+  ]
+}

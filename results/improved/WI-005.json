@@ -1,0 +1,25 @@
+{
+  "edits": [
+    {
+      "clause_reference": "5.4.4",
+      "action": "flag",
+      "rationale": "AIQS 5.4.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "This WI applies to all personnel involved in quality assurance and problem-solving activities within the manufacturing plant. It encompasses all equipment, including the Coordinate Measuring Machine (Asset ID: 2847.510.0007) and the Hydraulic Press, 12-ton (Asset ID: 2847.420.0018), and aligns with AIQS 5.4.4 and AIQS 4.2.2.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "This WI applies to all personnel involved in quality assurance and problem-solving activities within the manufacturing plant. It encompasses all equipment, including the Coordinate Measuring Machine (Asset ID: 2847.510.0007) and the Hydraulic Press, 12-ton (Asset ID: 2847.420.0018), and aligns with AIQS 5.4.4 and AIQS 4.2.2.",
+      "new_text": "This WI applies to all personnel involved in quality assurance and problem-solving activities within the manufacturing plant. It encompasses all equipment, including the Coordinate Measuring Machine (Asset ID: 2847.510.0007) and the Hydraulic Press, 12-ton (Asset ID: 2847.420.0019), and aligns with AIQS 5.4.4 and AIQS 4.2.2."
+    },
+    {
+      "clause_reference": "5.4.4",
+      "action": "flag",
+      "rationale": "AIQS 5.4.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "2. **Assemble the Team**: Gather a cross-functional team with knowledge of the process and equipment involved. Ensure that team members understand the importance of the RCA process as outlined in AIQS 5.4.4.",
+      "new_text": ""
+    }
+  ]
+}

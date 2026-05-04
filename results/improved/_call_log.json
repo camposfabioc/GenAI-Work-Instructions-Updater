@@ -1,0 +1,642 @@
+[
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1318,
+    "completion_tokens": 172,
+    "total_tokens": 1490,
+    "latency_s": 3.502,
+    "cost_usd": 0.000301
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1638,
+    "completion_tokens": 159,
+    "total_tokens": 1797,
+    "latency_s": 2.972,
+    "cost_usd": 0.000341
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1380,
+    "completion_tokens": 168,
+    "total_tokens": 1548,
+    "latency_s": 3.389,
+    "cost_usd": 0.000308
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1449,
+    "completion_tokens": 79,
+    "total_tokens": 1528,
+    "latency_s": 1.759,
+    "cost_usd": 0.000265
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1324,
+    "completion_tokens": 78,
+    "total_tokens": 1402,
+    "latency_s": 2.212,
+    "cost_usd": 0.000245
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1387,
+    "completion_tokens": 70,
+    "total_tokens": 1457,
+    "latency_s": 2.909,
+    "cost_usd": 0.00025
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1303,
+    "completion_tokens": 70,
+    "total_tokens": 1373,
+    "latency_s": 1.646,
+    "cost_usd": 0.000237
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1531,
+    "completion_tokens": 78,
+    "total_tokens": 1609,
+    "latency_s": 2.193,
+    "cost_usd": 0.000276
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1480,
+    "completion_tokens": 120,
+    "total_tokens": 1600,
+    "latency_s": 2.923,
+    "cost_usd": 0.000294
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1303,
+    "completion_tokens": 68,
+    "total_tokens": 1371,
+    "latency_s": 1.788,
+    "cost_usd": 0.000236
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1536,
+    "completion_tokens": 149,
+    "total_tokens": 1685,
+    "latency_s": 2.714,
+    "cost_usd": 0.00032
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1340,
+    "completion_tokens": 82,
+    "total_tokens": 1422,
+    "latency_s": 2.194,
+    "cost_usd": 0.00025
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1310,
+    "completion_tokens": 74,
+    "total_tokens": 1384,
+    "latency_s": 1.966,
+    "cost_usd": 0.000241
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1299,
+    "completion_tokens": 111,
+    "total_tokens": 1410,
+    "latency_s": 2.9,
+    "cost_usd": 0.000261
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1492,
+    "completion_tokens": 95,
+    "total_tokens": 1587,
+    "latency_s": 2.078,
+    "cost_usd": 0.000281
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1270,
+    "completion_tokens": 67,
+    "total_tokens": 1337,
+    "latency_s": 2.36,
+    "cost_usd": 0.000231
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1331,
+    "completion_tokens": 86,
+    "total_tokens": 1417,
+    "latency_s": 1.839,
+    "cost_usd": 0.000251
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1418,
+    "completion_tokens": 125,
+    "total_tokens": 1543,
+    "latency_s": 2.465,
+    "cost_usd": 0.000288
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1374,
+    "completion_tokens": 131,
+    "total_tokens": 1505,
+    "latency_s": 2.643,
+    "cost_usd": 0.000285
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1356,
+    "completion_tokens": 162,
+    "total_tokens": 1518,
+    "latency_s": 3.158,
+    "cost_usd": 0.000301
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1408,
+    "completion_tokens": 72,
+    "total_tokens": 1480,
+    "latency_s": 1.865,
+    "cost_usd": 0.000254
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1406,
+    "completion_tokens": 87,
+    "total_tokens": 1493,
+    "latency_s": 1.58,
+    "cost_usd": 0.000263
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1452,
+    "completion_tokens": 72,
+    "total_tokens": 1524,
+    "latency_s": 1.941,
+    "cost_usd": 0.000261
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1345,
+    "completion_tokens": 101,
+    "total_tokens": 1446,
+    "latency_s": 2.272,
+    "cost_usd": 0.000262
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1303,
+    "completion_tokens": 77,
+    "total_tokens": 1380,
+    "latency_s": 1.631,
+    "cost_usd": 0.000242
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1596,
+    "completion_tokens": 232,
+    "total_tokens": 1828,
+    "latency_s": 3.375,
+    "cost_usd": 0.000379
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1315,
+    "completion_tokens": 75,
+    "total_tokens": 1390,
+    "latency_s": 2.023,
+    "cost_usd": 0.000242
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1491,
+    "completion_tokens": 77,
+    "total_tokens": 1568,
+    "latency_s": 2.17,
+    "cost_usd": 0.00027
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1366,
+    "completion_tokens": 165,
+    "total_tokens": 1531,
+    "latency_s": 2.907,
+    "cost_usd": 0.000304
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1323,
+    "completion_tokens": 68,
+    "total_tokens": 1391,
+    "latency_s": 1.55,
+    "cost_usd": 0.000239
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1412,
+    "completion_tokens": 139,
+    "total_tokens": 1551,
+    "latency_s": 2.418,
+    "cost_usd": 0.000295
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1431,
+    "completion_tokens": 103,
+    "total_tokens": 1534,
+    "latency_s": 2.118,
+    "cost_usd": 0.000276
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1390,
+    "completion_tokens": 78,
+    "total_tokens": 1468,
+    "latency_s": 1.761,
+    "cost_usd": 0.000255
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1384,
+    "completion_tokens": 177,
+    "total_tokens": 1561,
+    "latency_s": 3.189,
+    "cost_usd": 0.000314
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1354,
+    "completion_tokens": 76,
+    "total_tokens": 1430,
+    "latency_s": 1.838,
+    "cost_usd": 0.000249
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1606,
+    "completion_tokens": 171,
+    "total_tokens": 1777,
+    "latency_s": 2.737,
+    "cost_usd": 0.000343
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1312,
+    "completion_tokens": 83,
+    "total_tokens": 1395,
+    "latency_s": 1.712,
+    "cost_usd": 0.000247
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1412,
+    "completion_tokens": 90,
+    "total_tokens": 1502,
+    "latency_s": 1.712,
+    "cost_usd": 0.000266
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1370,
+    "completion_tokens": 74,
+    "total_tokens": 1444,
+    "latency_s": 1.539,
+    "cost_usd": 0.00025
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1417,
+    "completion_tokens": 157,
+    "total_tokens": 1574,
+    "latency_s": 2.636,
+    "cost_usd": 0.000307
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1373,
+    "completion_tokens": 119,
+    "total_tokens": 1492,
+    "latency_s": 2.31,
+    "cost_usd": 0.000277
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1365,
+    "completion_tokens": 70,
+    "total_tokens": 1435,
+    "latency_s": 1.569,
+    "cost_usd": 0.000247
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1365,
+    "completion_tokens": 88,
+    "total_tokens": 1453,
+    "latency_s": 1.949,
+    "cost_usd": 0.000258
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1341,
+    "completion_tokens": 81,
+    "total_tokens": 1422,
+    "latency_s": 1.725,
+    "cost_usd": 0.00025
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1370,
+    "completion_tokens": 92,
+    "total_tokens": 1462,
+    "latency_s": 1.685,
+    "cost_usd": 0.000261
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1384,
+    "completion_tokens": 75,
+    "total_tokens": 1459,
+    "latency_s": 2.346,
+    "cost_usd": 0.000253
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1366,
+    "completion_tokens": 73,
+    "total_tokens": 1439,
+    "latency_s": 1.858,
+    "cost_usd": 0.000249
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1521,
+    "completion_tokens": 72,
+    "total_tokens": 1593,
+    "latency_s": 1.864,
+    "cost_usd": 0.000271
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1442,
+    "completion_tokens": 68,
+    "total_tokens": 1510,
+    "latency_s": 1.398,
+    "cost_usd": 0.000257
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1635,
+    "completion_tokens": 168,
+    "total_tokens": 1803,
+    "latency_s": 2.992,
+    "cost_usd": 0.000346
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1507,
+    "completion_tokens": 87,
+    "total_tokens": 1594,
+    "latency_s": 1.564,
+    "cost_usd": 0.000278
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1418,
+    "completion_tokens": 85,
+    "total_tokens": 1503,
+    "latency_s": 1.573,
+    "cost_usd": 0.000264
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1475,
+    "completion_tokens": 200,
+    "total_tokens": 1675,
+    "latency_s": 3.215,
+    "cost_usd": 0.000341
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1373,
+    "completion_tokens": 118,
+    "total_tokens": 1491,
+    "latency_s": 2.154,
+    "cost_usd": 0.000277
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1372,
+    "completion_tokens": 72,
+    "total_tokens": 1444,
+    "latency_s": 1.354,
+    "cost_usd": 0.000249
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1296,
+    "completion_tokens": 78,
+    "total_tokens": 1374,
+    "latency_s": 1.884,
+    "cost_usd": 0.000241
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1662,
+    "completion_tokens": 140,
+    "total_tokens": 1802,
+    "latency_s": 1.785,
+    "cost_usd": 0.000333
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1466,
+    "completion_tokens": 114,
+    "total_tokens": 1580,
+    "latency_s": 2.101,
+    "cost_usd": 0.000288
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1310,
+    "completion_tokens": 82,
+    "total_tokens": 1392,
+    "latency_s": 1.991,
+    "cost_usd": 0.000246
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1421,
+    "completion_tokens": 136,
+    "total_tokens": 1557,
+    "latency_s": 2.104,
+    "cost_usd": 0.000295
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1491,
+    "completion_tokens": 99,
+    "total_tokens": 1590,
+    "latency_s": 1.612,
+    "cost_usd": 0.000283
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1334,
+    "completion_tokens": 77,
+    "total_tokens": 1411,
+    "latency_s": 1.805,
+    "cost_usd": 0.000246
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1362,
+    "completion_tokens": 75,
+    "total_tokens": 1437,
+    "latency_s": 1.585,
+    "cost_usd": 0.000249
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1322,
+    "completion_tokens": 137,
+    "total_tokens": 1459,
+    "latency_s": 1.799,
+    "cost_usd": 0.00028
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1554,
+    "completion_tokens": 217,
+    "total_tokens": 1771,
+    "latency_s": 4.162,
+    "cost_usd": 0.000363
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1408,
+    "completion_tokens": 77,
+    "total_tokens": 1485,
+    "latency_s": 1.24,
+    "cost_usd": 0.000257
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1369,
+    "completion_tokens": 85,
+    "total_tokens": 1454,
+    "latency_s": 1.388,
+    "cost_usd": 0.000256
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1400,
+    "completion_tokens": 73,
+    "total_tokens": 1473,
+    "latency_s": 1.318,
+    "cost_usd": 0.000254
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1381,
+    "completion_tokens": 104,
+    "total_tokens": 1485,
+    "latency_s": 1.782,
+    "cost_usd": 0.00027
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1370,
+    "completion_tokens": 74,
+    "total_tokens": 1444,
+    "latency_s": 1.479,
+    "cost_usd": 0.00025
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1583,
+    "completion_tokens": 162,
+    "total_tokens": 1745,
+    "latency_s": 2.786,
+    "cost_usd": 0.000335
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1478,
+    "completion_tokens": 118,
+    "total_tokens": 1596,
+    "latency_s": 1.899,
+    "cost_usd": 0.000293
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1676,
+    "completion_tokens": 190,
+    "total_tokens": 1866,
+    "latency_s": 3.552,
+    "cost_usd": 0.000365
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1419,
+    "completion_tokens": 97,
+    "total_tokens": 1516,
+    "latency_s": 1.583,
+    "cost_usd": 0.000271
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1411,
+    "completion_tokens": 90,
+    "total_tokens": 1501,
+    "latency_s": 1.48,
+    "cost_usd": 0.000266
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1534,
+    "completion_tokens": 132,
+    "total_tokens": 1666,
+    "latency_s": 2.345,
+    "cost_usd": 0.000309
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1372,
+    "completion_tokens": 83,
+    "total_tokens": 1455,
+    "latency_s": 2.018,
+    "cost_usd": 0.000256
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1380,
+    "completion_tokens": 68,
+    "total_tokens": 1448,
+    "latency_s": 1.425,
+    "cost_usd": 0.000248
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1470,
+    "completion_tokens": 155,
+    "total_tokens": 1625,
+    "latency_s": 2.692,
+    "cost_usd": 0.000313
+  },
+  {
+    "model": "gpt-4o-mini",
+    "prompt_tokens": 1349,
+    "completion_tokens": 104,
+    "total_tokens": 1453,
+    "latency_s": 1.944,
+    "cost_usd": 0.000265
+  }
+]

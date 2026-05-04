@@ -1,0 +1,53 @@
+{
+  "edits": [
+    {
+      "clause_reference": "1.3.2",
+      "action": "edit",
+      "rationale": "The definition of LOTO and ORR has been updated in v2, necessitating a change in the Work Instruction to reflect the new definitions.",
+      "old_text": "as specified in AIQS 1.3.2.",
+      "new_text": "as specified in AIQS 1.3.2 — Definitions of LOTO and ORR: 'LOTO' is the Lockout/Tagout procedure that safeguards personnel during maintenance activities by preventing the unexpected energization of machinery. 'ORR' stands for Operational Readiness Review, which is a systematic evaluation conducted to ensure that Class-B rotating equipment and processes are prepared for safe and effective operation. Understanding these definitions is critical for compliance with safety and operational protocols."
+    },
+    {
+      "clause_reference": "2.1.5",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2 of the AIQS.",
+      "old_text": "as outlined in AIQS 2.3.3.",
+      "new_text": "as outlined in AIQS 2.1.5."
+    },
+    {
+      "clause_reference": "1.2.4",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the citation text.",
+      "old_text": "AIQS 1.2.4",
+      "new_text": "AIQS 1.2.4 — Documentation of normative references shall be maintained to provide a clear record of all applicable standards and guidelines. Each reference shall be cataloged with relevant details, including title, version, and date of publication. This documentation shall be reviewed periodically to ensure its completeness and accuracy. Records shall be retained for a minimum of five years to support audits and compliance assessments related to the AIQS."
+    },
+    {
+      "clause_reference": "1.4.1",
+      "action": "edit",
+      "rationale": "The content of AIQS 1.4.1 has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "quality checks required per AIQS 1.4.1.",
+      "new_text": "Lockout/Tagout (LOTO) procedures as outlined in the Operational Risk Reduction (ORR) documentation per AIQS 1.4.1."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "Following the introductory meeting, the employee shall participate in hands-on training with key equipment, specifically the Hydraulic Press (Asset ID: 2847.420.0018) and the Vertical Turning Lathe (Asset ID: 2847.310.0061). The mentor shall demonstrate the proper operation of each machine and highlight the quality checks required per AIQS 1.4.1. The employee shall practice operating the equipment under supervision, ensuring they can perform First Article Inspections (FAI) and recognize potential Nonconformance Reports (NCR). The mentor shall assess the employee's competency in operating the equipment and performing quality checks, providing feedback and additional training as necessary.",
+      "new_text": "Following the introductory meeting, the employee shall participate in hands-on training with key equipment, specifically the Hydraulic Press (Asset ID: 2847.420.0019) and the Vertical Turning Lathe (Asset ID: 2847.310.0061). The mentor shall demonstrate the proper operation of each machine and highlight the quality checks required per AIQS 1.4.1. The employee shall practice operating the equipment under supervision, ensuring they can perform First Article Inspections (FAI) and recognize potential Nonconformance Reports (NCR). The mentor shall assess the employee's competency in operating the equipment and performing quality checks, providing feedback and additional training as necessary."
+    },
+    {
+      "clause_reference": "2.1.5",
+      "action": "edit",
+      "rationale": "The clause reference has changed in v2, requiring an update to the citation in the Work Instruction.",
+      "old_text": "the criteria set forth in AIQS 2.3.3.",
+      "new_text": "the criteria set forth in AIQS 2.1.5."
+    },
+    {
+      "clause_reference": "1.3.2",
+      "action": "edit",
+      "rationale": "The definition of 'LOTO' and 'ORR' has been updated in v2, necessitating a change in the Work Instruction to reflect the new definitions.",
+      "old_text": "AIQS 1.3.2.",
+      "new_text": "AIQS 1.3.2 — Definitions of LOTO and ORR 'LOTO' and 'ORR' shall be defined as follows: 'LOTO' is the Lockout/Tagout procedure that safeguards personnel during maintenance activities by preventing the unexpected energization of machinery. 'ORR' stands for Operational Readiness Review, which is a systematic evaluation conducted to ensure that Class-B rotating equipment and processes are prepared for safe and effective operation. Understanding these definitions is critical for compliance with safety and operational protocols."
+    }
+  ]
+}

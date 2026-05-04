@@ -1,0 +1,46 @@
+{
+  "edits": [
+    {
+      "clause_reference": "4.2.1",
+      "action": "edit",
+      "rationale": "The equipment asset ID for the Horizontal CNC Machining Center has been superseded in v2, necessitating an update to reflect the new ID.",
+      "old_text": "It encompasses the use of equipment asset IDs 2847.310.0042 (Horizontal CNC Machining Center) and 2847.420.0023 (Injection Molding Unit) in the validation process, as referenced in AIQS 4.2.1.",
+      "new_text": "It encompasses the use of equipment asset IDs 2847.310.0043 (Horizontal CNC Machining Center) and 2847.420.0019 (Hydraulic Press, 12-ton) in the validation process, as referenced in AIQS 4.2.1."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "This WI applies to all personnel involved in the validation of CMM programs at the manufacturing facility. It encompasses the use of equipment asset IDs 2847.310.0042 (Horizontal CNC Machining Center) and 2847.420.0023 (Injection Molding Unit) in the validation process, as referenced in AIQS 4.2.1.",
+      "new_text": "This WI applies to all personnel involved in the validation of CMM programs at the manufacturing facility. It encompasses the use of equipment asset IDs 2847.310.0043 (Horizontal CNC Machining Center) and 2847.420.0023 (Injection Molding Unit) in the validation process, as referenced in AIQS 4.2.1."
+    },
+    {
+      "clause_reference": "3.4.4",
+      "action": "flag",
+      "rationale": "AIQS 3.4.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "Personnel must complete the Operational Readiness Review (ORR) prior to initiating the CMM program validation. Ensure that all relevant documentation, including First Article Inspection (FAI) reports and Nonconformance Reports (NCR), are available for reference. Personnel shall also be trained in Lockout-Tagout (LOTO) procedures to ensure safety during equipment operation, as required by AIQS 3.4.4. Additionally, familiarity with AIQS clauses 3.2.1, 3.2.3, and 3.3.4 is essential for compliance.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "3.2.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the citation.",
+      "old_text": "Document any discrepancies as per AIQS 3.2.1.",
+      "new_text": "Document any discrepancies as per AIQS 3.2.1 — Calibration of torque equipment."
+    },
+    {
+      "clause_reference": "4.2.1",
+      "action": "edit",
+      "rationale": "The clause content has changed in v2, requiring an update to the citation.",
+      "old_text": "Ensure that all records are maintained in accordance with AIQS 4.2.1.",
+      "new_text": "Ensure that all records are maintained in accordance with AIQS 4.2.1 — Inspection frequency requirements."
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.310.0042 has been superseded by 2847.310.0043 in v2.",
+      "old_text": "1. **Preparation**: Review the CMM program and associated documentation, including FAI reports and NCRs. Ensure that the Horizontal CNC Machining Center (2847.310.0042) and Injection Molding Unit (2847.420.0023) are in a ready state for validation.",
+      "new_text": "1. **Preparation**: Review the CMM program and associated documentation, including FAI reports and NCRs. Ensure that the Horizontal CNC Machining Center (2847.310.0043) and Injection Molding Unit (2847.420.0023) are in a ready state for validation."
+    }
+  ]
+}

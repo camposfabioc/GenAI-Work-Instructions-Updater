@@ -1,0 +1,25 @@
+{
+  "edits": [
+    {
+      "clause_reference": "1.2.3",
+      "action": "flag",
+      "rationale": "The clause 1.2.3 has been removed in version 2 of the standard, requiring human review to determine the appropriate action.",
+      "old_text": "per AIQS 1.2.3",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "1.5.4",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new clause should be cited instead.",
+      "old_text": "per AIQS 1.5.4",
+      "new_text": "per AIQS 2.1.2"
+    },
+    {
+      "clause_reference": "1.4.1",
+      "action": "edit",
+      "rationale": "The clause reference has changed in version 2, and the new clause should be cited instead.",
+      "old_text": "AIQS 1.4.1",
+      "new_text": "AIQS 2.2.1"
+    }
+  ]
+}

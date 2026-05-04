@@ -1,0 +1,32 @@
+{
+  "edits": [
+    {
+      "clause_reference": "3.4.4",
+      "action": "flag",
+      "rationale": "AIQS 3.4.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "This WI applies to all personnel involved in the FAI process for products manufactured using equipment asset IDs 2847.420.0023 (Injection Molding Unit) and 2847.420.0018 (Hydraulic Press, 12-ton). It encompasses the preparation, execution, and documentation of the FAI in accordance with AIQS 3.4.4.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "This WI applies to all personnel involved in the FAI process for products manufactured using equipment asset IDs 2847.420.0023 (Injection Molding Unit) and 2847.420.0018 (Hydraulic Press, 12-ton). It encompasses the preparation, execution, and documentation of the FAI in accordance with AIQS 3.4.4.",
+      "new_text": "This WI applies to all personnel involved in the FAI process for products manufactured using equipment asset IDs 2847.420.0023 (Injection Molding Unit) and 2847.420.0019 (Hydraulic Press, 12-ton). It encompasses the preparation, execution, and documentation of the FAI in accordance with AIQS 3.4.4."
+    },
+    {
+      "clause_reference": "3.4.4",
+      "action": "flag",
+      "rationale": "AIQS 3.4.4 was not found in v2 and no similar replacement clause was identified. The clause may have been deprecated — human review required.",
+      "old_text": "3. Execute the FAI by running a sample batch using both the Injection Molding Unit (2847.420.0023) and the Hydraulic Press (2847.420.0018). Measure critical dimensions and compare them against the specifications. Document any discrepancies and generate a Nonconformance Report (NCR) if necessary, in accordance with AIQS 3.4.4.",
+      "new_text": ""
+    },
+    {
+      "clause_reference": "0.0.0",
+      "action": "edit",
+      "rationale": "Equipment ID 2847.420.0018 has been superseded by 2847.420.0019 in v2.",
+      "old_text": "3. Execute the FAI by running a sample batch using both the Injection Molding Unit (2847.420.0023) and the Hydraulic Press (2847.420.0018). Measure critical dimensions and compare them against the specifications. Document any discrepancies and generate a Nonconformance Report (NCR) if necessary, in accordance with AIQS 3.4.4.",
+      "new_text": "3. Execute the FAI by running a sample batch using both the Injection Molding Unit (2847.420.0023) and the Hydraulic Press (2847.420.0019). Measure critical dimensions and compare them against the specifications. Document any discrepancies and generate a Nonconformance Report (NCR) if necessary, in accordance with AIQS 3.4.4."
+    }
+  ]
+}
