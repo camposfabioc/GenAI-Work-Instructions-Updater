@@ -1,6 +1,6 @@
 # GenAI Work Instructions Updater
 
-A RAG-based pipeline that automatically updates Work Instructions (WIs) to comply with revised quality standards, with a quantitative evaluation framework that maps 1:1 to four observed failure modes.
+A RAG-based pipeline that helps engineers to update Work Instructions (WIs) to comply with revised quality standards, with a quantitative evaluation framework that maps 1:1 to four observed failure modes.
 
 **Headline results:** The improved pipeline reduces reference hallucination from 9.9% to 2.5%, closes the lost-in-middle position gap to 0.03 (effectively flat across positions), runs 3.4× cheaper per WI, and uses 61% fewer tokens — while achieving 100% action rate on 3 of 6 transformation types.
 
