@@ -1,0 +1,17 @@
+[project]
+name = "genai-wi-updater"
+version = "0.1.0"
+description = "RAG pipeline that updates Work Instructions to comply with revised quality standards"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.30",
+    "chromadb>=0.5",
+    "pydantic>=2.7",
+    "python-dotenv>=1.0",
+    "matplotlib>=3.9",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
